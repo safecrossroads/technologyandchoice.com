@@ -34,10 +34,9 @@ Last updated: 25/April/2014
 - Install Xcode Command Line Tool: $`xcode-select --install`
 
 
-
-
-
-
-
-
+## Useful Links
+- Jekyll: <https://jekyllrb.com/>
+- Bootstrap: <https://github.com/twbs/bootstrap>
+- Genericons: <http://genericons.com/>
+- Magnific popup: <http://dimsemenov.com/plugins/magnific-popup/>
 
