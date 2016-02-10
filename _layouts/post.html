@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+
+<!-- Contents -->
+<div class="content post">
+
+
+  {% include _components/post-header.html %}
+
+
+  <!-- Contents -->
+  <div class="container">
+  <div class="row">
+
+
+    <!-- Main -->
+    <main class="main {{site.gridClass.main}}" role="main">
+
+
+      <article class="entry">
+
+
+        <div class="post-content">
+        {{content}}
+        </div><!-- /.post-content-->
+
+
+        <footer class="post-footer">
+        {% include _components/post-footer.html %}
+        {% include _components/pagination-for-post.html %}
+        </footer><!-- /.post-footer -->
+
+
+      </article>
+    </main>
+
+
+    <!-- Sidebar -->
+    <aside class="sidebar {{site.gridClass.sidebar}}" role="complementary">
+    {% include sidebar.html %}
+    </aside>
+
+
+  </div><!-- /.row -->
+  </div><!-- /.container -->
+
+
+</div><!-- /.content -->

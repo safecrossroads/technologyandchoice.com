@@ -1,0 +1,137 @@
+/* Site Footer */
+.site-footer {
+  background: $footer-bg;
+  color:   $footer-color;
+  margin:  $footer-margin;
+  padding: $footer-padding;
+  }
+
+  .site-footer a {
+    color: $footer-link-color;
+    opacity: 1;
+    }
+  .site-footer a:hover {
+    opacity: 0.6;
+    }
+
+  .site-footer a:active {
+    text-decoration: underline;
+    }
+
+  .site-footer hr {
+    display: $footer-hr-display;
+    border-color: $footer-hr-color;
+    }
+
+
+
+/* Footer menu */
+.footer-menu {
+  display: inline-block;
+  width: 100%;
+  }
+  .footer-menu ul {
+    margin: 0 0 1.5rem;
+    }
+    .footer-nav {
+      float: left;
+      text-transform: uppercase;
+      }
+
+
+
+/* SNS Icons */
+.sns-icons {
+  float: right;
+  }
+  .sns-icons li span {
+    display: none;
+    }
+  .sns-icons i {
+    font-size: 1.5rem;
+    }
+
+
+/* Footer note */
+.site-footer .footer-note p {
+  font-size: 0.88rem;
+  margin: 0;
+  }
+
+
+
+/* Copyright info, Back to top */
+.site-footer .copyright,
+.back-top {
+  display: inline-block;
+  margin-top: 30px;
+  }
+
+  .site-footer .maker {
+    border-left: 1px solid #ccc;
+    margin-left: 5px;
+    padding-left: 10px;
+    }
+
+  .back-top {
+    float: right;
+    }
+    .back-top i {
+      font-size: 1.25rem;
+      margin-top: 5px;
+      }
+
+
+
+/* Responsive: Desktop */
+@media (min-width: 992px) {
+  .footer-nav li:first-child { padding-left: 0; }
+  .sns-icons li:last-child {  padding-right: 0; }
+}
+
+
+/* Responsive: Tablet */
+@media (max-width: 991px) {
+
+  .footer-nav,
+  .sns-icons,
+  .copyright,
+  .maker,
+  .footer-note,
+  .back-top {
+    width: 100%;
+    text-align: center;
+    }
+
+  .site-footer .maker {
+    border-left: 0;
+    margin-left: 0;
+    padding-left: 0;
+    }
+
+  .site-footer .copyright,
+  .site-footer .maker {
+    font-size: 0.875rem;
+    }
+
+  .back-top a {
+    display: inline-block;
+    border: 1px solid;
+    padding: 10px 20px;
+    }
+
+}
+
+
+/* Responsive: Mobile */
+@media (max-width: 767px) {
+  .site-footer .footer-nav li {
+    display: block;
+    margin: 14px 0;
+    padding: 0;
+    }
+    .site-footer .maker {
+      display: block;
+      }
+}
+

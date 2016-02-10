@@ -1,0 +1,15 @@
+
+<!-- Pager Pagination for Index -->
+<ul class="pagination">
+  {% if paginator.next_page %}
+  <li class="pagination-item older">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older</a>
+  </li>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+  <li class="pagination-item newer">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer &rarr;</a>
+  </li>
+  {% endif %}
+</ul>

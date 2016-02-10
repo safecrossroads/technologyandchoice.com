@@ -1,0 +1,30 @@
+{% if page.thumbnail %}
+<div class="jumbotron main-header main-header-bg" style="background-image: url('{{site.baseurl}}/{{ page.thumbnail }}'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+{% else %}
+<div class="jumbotron main-header">
+{% endif %}
+  <div class="container">
+
+
+      <div class="scroll-fade jumbotron-text">
+        <h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
+
+        <p class="post-meta">
+          <time datetime="{{page.date | date_to_xmlschema}}" itemprop="datePublished">
+          {{page.date | date_to_string}}
+          </time>
+
+          {% if page.author %}<span class="split">&middot;</span> By
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">{{page.author}}</span>
+          </span>{% endif %}
+
+          {% for tag in page.tags %}<span class="split">&middot;</span>
+          <a class="tag" href="{{site.baseurl}}/tags/#{{tag}}">{{tag}}</a>
+          {% endfor %}
+        </p>
+      </div>
+
+
+  </div><!-- /.container -->
+</div><!-- /.jumbotron -->

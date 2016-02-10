@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{site.language}}" prefix="og: http://ogp.me/ns#">
+
+
+{% include head.html %}
+
+
+<body id="top" class="{{page.title | slugify}} {{page.bodyclass}} {% if site.topNavbar == 'on' %}fixed-nav{% endif %} {% if site.testMode == 'on' %}style-testing{% endif %} ">
+  <div id="master-wrap">
+
+
+    {{content}}
+
+
+    {% include scripts.html %}
+
+
+  </div><!-- /#master-wrap -->
+</body>
+</html>
+

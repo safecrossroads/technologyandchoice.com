@@ -1,0 +1,86 @@
+/* Links */
+a,a:focus  { color: $link-color; }
+  a:hover  { color: lighten($link-color, 10% ); }
+  a:active { color:  darken($link-color, 10% ); }
+
+
+   /* Base colour */
+  .btn-default {&,&:hover,&:focus,&:active,&.active { background-color: $btn-default !important;} }
+  .btn-primary {&,&:hover,&:focus,&:active,&.active { background-color: $btn-primary !important;} }
+  .btn-success {&,&:hover,&:focus,&:active,&.active { background-color: $btn-success !important;} }
+  .btn-info    {&,&:hover,&:focus,&:active,&.active { background-color: $btn-info    !important;} }
+  .btn-warning {&,&:hover,&:focus,&:active,&.active { background-color: $btn-warning !important;} }
+  .btn-danger  {&,&:hover,&:focus,&:active,&.active { background-color: $btn-danger  !important;} }
+  .btn-inverse {&,&:hover,&:focus,&:active,&.active { background-color: $btn-inverse !important;} }
+
+
+   /* Hover */
+  .btn-default:hover { background-color: lighten($btn-default, 10% ) !important; }
+  .btn-primary:hover { background-color: lighten($btn-primary, 10% ) !important; }
+  .btn-info:hover    { background-color: lighten($btn-info,    10% ) !important; }
+  .btn-success:hover { background-color: lighten($btn-success, 10% ) !important; }
+  .btn-warning:hover { background-color: lighten($btn-warning, 10% ) !important; }
+  .btn-danger:hover  { background-color: lighten($btn-danger , 10% ) !important; }
+  .btn-inverse:hover { background-color: lighten($btn-inverse, 10% ) !important; }
+
+
+   /* Inverse */
+  .btn-inverse,
+  .btn-inverse:hover,
+  .btn-inverse:active,
+  .btn-inverse:focus { color: #fff; }
+
+
+
+/* BTN STYLE 1: Gradient Button */
+.btn-gradient {
+  @include background-image(linear-gradient(rgba(255,255,255,0.25), transparent, rgba(0,0,0,0.13)));    /* Gradient global */
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset, 0 1px 1px rgba(0, 0, 0, 0.075);                  /* Shadow */
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);                                                           /* Text-shadow */
+  border-color: rgba(255, 255, 255, 0.3) rgba(0, 0, 0, 0.2) rgba(0, 0, 0, 0.5) !important;
+  }
+
+
+
+/* BTN STYLE 2: Square */
+.btn-square {
+  font-weight: 600;
+  border-radius: 0px;
+  text-transform: uppercase;
+  border-bottom: 3px solid rgba(0,0,0,0.25);
+  }
+  .btn-square:active {
+    margin-top: 2px;
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+    }
+
+
+
+/* BTN STYLE 3: Ghost */
+.btn-ghost {
+  background: transparent !important;
+  border-width: 2px;
+  border-radius: 0;
+  }
+
+  .btn-ghost.btn-default { color: darken($btn-default, 100% ); border-color: darken($btn-default, 100% );
+    &:hover { background: darken($btn-default, 100% ) !important; color: lighten($btn-default, 100% );} }
+
+  .btn-ghost.btn-primary { color: $btn-primary; border-color: $btn-primary;
+       &:hover { background: $btn-primary !important; color: lighten($btn-primary, 100% ) !important;} }
+
+  .btn-ghost.btn-info    { color: $btn-info; border-color: $btn-info;
+       &:hover { background: $btn-info !important; color: lighten($btn-info, 100% );} }
+
+  .btn-ghost.btn-success { color: $btn-success; border-color: $btn-success;
+       &:hover { background: $btn-success !important; color: lighten($btn-success, 100% );} }
+
+  .btn-ghost.btn-warning { color: $btn-warning; border-color: $btn-warning;
+       &:hover { background: $btn-warning !important; color: lighten($btn-warning, 100% );} }
+
+  .btn-ghost.btn-danger  { color: $btn-danger;  border-color: $btn-danger;
+       &:hover { background: $btn-danger !important; color: lighten($btn-danger, 100% );} }
+
+  .btn-ghost.btn-inverse { color: lighten($btn-inverse, 100% ); border-color: lighten($btn-inverse, 100% );
+    &:hover { background: lighten($btn-inverse, 100% ) !important; color: darken($btn-inverse, 100% );} }
+

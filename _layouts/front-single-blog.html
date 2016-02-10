@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+
+{% for post in paginator.posts %}
+<!-- Contents -->
+<div class="content post blog">
+
+
+    {% if page.thumbnail %}
+    <div class="jumbotron main-header main-header-bg" style="background-image: url('{{site.baseurl}}/{{ page.thumbnail }}'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+    {% else %}
+    <div class="jumbotron main-header">
+    {% endif %}
+      <div class="container">
+
+
+        <div class="scroll-fade">
+          <h1 class="post-title" itemprop="name headline">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+          </h1>
+
+          <p class="post-meta">
+
+            <time datetime="{{post.date | date_to_xmlschema}}" class="post-date">
+            {{post.date | date_to_string}}
+            </time>
+
+            {% if post.author %}<span class="split">&middot;</span> By
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              <span itemprop="name">{{ post.author }}</span>
+            </span>{% endif %}
+
+            {% for tag in post.tags %}<span class="split">&middot;</span>
+            <a class="tag" href="{{site.baseurl}}/tags/#{{tag}}">{{tag}}</a>
+            {% endfor %}
+          </p>
+        </div>
+
+
+    </div><!-- /.container -->
+  </div><!-- /.jumbotron -->
+
+
+  <div class="container">
+  <div class="row">
+
+
+    <!-- Main -->
+    <main class="main {{site.gridClass.main}}" role="main">
+
+      <article class="entry">
+
+
+        <div class="post-content">
+        {{post.content}}
+        </div><!-- /.post-content-->
+
+
+        <footer class="post-footer">
+        {% include _components/post-footer.html %}
+        {% include _components/pagination-for-home.html %}
+        </footer><!-- /.post-footer -->
+
+
+      </article>
+
+
+    </main>
+
+
+    <!-- Sidebar -->
+    <aside class="sidebar {{site.gridClass.sidebar}}" role="complementary">
+    {% include sidebar.html %}
+    </aside>
+
+
+  </div><!-- /.row -->
+  </div><!-- /.container -->
+
+
+</div><!-- /.content -->
+{% endfor %}

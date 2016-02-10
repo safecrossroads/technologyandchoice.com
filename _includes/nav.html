@@ -1,0 +1,63 @@
+
+  <header id="gnb" class="navbar navbar-default {% if site.topNavbar == 'on' %}navbar-fixed-top{% else %}navbar-standard{% endif %}" role="banner">
+    <div class="container">
+
+
+      <div class="navbar-header">
+        <!-- Mobile toggle button -->
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar top-bar"></span>
+          <span class="icon-bar middle-bar"></span>
+          <span class="icon-bar bottom-bar"></span>
+        </button>
+
+
+        <!-- Logo -->
+        <div class="logo-box">{% if site.logoType == 'image' %}
+          <a class="navbar-brand site-title logo-image" href="{{site.baseurl | prepend: site.url}}">
+            <img alt="{{site.title}}" src="{{site.baseurl | prepend: site.url}}/assets/brand/logo.png" width="{{site.logoWidth}}">
+          </a>{% else %}
+
+          <a class="navbar-brand site-title logo-text" href="{{site.baseurl}}/">
+            <strong>{{site.title}}</strong> {% if site.slogan == empty %}{% else %}
+            <small class="slogan">{{site.slogan}}</small>{% endif %}
+          </a>
+          {% endif %}
+        </div>
+      </div><!-- /.navbar-header -->
+
+
+      <!-- Navigation -->
+      <nav id="navbar-collapse" class="navbar-collapse collapse" role="navigation">
+        <ul class="nav navbar-nav">
+          <li><a href="{{site.baseurl | prepend: site.url}}">Home</a></li>
+          <li><a href="{{site.baseurl}}/page/">Page</a></li>
+          <li><a href="{{site.baseurl}}/post/2016/01/single-post/">Post</a></li>
+          <li><a href="{{site.baseurl}}/contact/">Custom</a></li>
+          <li><a href="{{site.baseurl}}/tags/">Tags</a></li>
+
+          <li class="dropdown">
+          <a data-toggle="dropdown" class="dropdown-toggle" href="#">Style Guide <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="dropdown-header">Elements</li>
+              <li><a href="{{site.baseurl}}/docs/style-grid/">Grid Tester</a></li>
+              <li><a href="{{site.baseurl}}/docs/style-test/">Style Tester</a></li>
+              <li><a href="{{site.baseurl}}/docs/style-typo/">Typography</a></li>
+
+              <li class="divider"></li>
+              <li class="dropdown-header">Templates</li>
+              <li><a href="{{site.baseurl}}/index-carousel.html">Carousel</a></li>
+              <li><a href="{{site.baseurl}}/index-carousel-caption.html">Carousel With Caption</a></li>
+              <li><a href="{{site.baseurl}}/parking.html">Landing Page</a></li>
+              <li><a href="{{site.baseurl}}/404.html">Error Page</a></li>
+              <li><a href="{{site.baseurl}}/503.html">Down Page</a></li>
+            </ul>
+          </li>
+          <li><a href="https://github.com/redfrost/rfbp">Contact</a></li>
+        </ul>
+      </nav><!--/.nav-collapse -->
+
+
+    </div><!-- /.container -->
+  </header>

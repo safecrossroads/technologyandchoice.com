@@ -1,0 +1,92 @@
+@charset "utf-8";
+html {
+  font-size: 100%;
+/*-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  -webkit-font-smoothing: subpixel-antialiased; /* Safari text fix */
+  }
+
+
+/* Link */
+a, a:focus {
+  text-decoration: none;
+  cursor: pointer;
+  }
+  a:hover {
+    zoom: 1;
+    text-decoration: none;
+    }
+
+
+/* Remove Firefox selection dot */
+a, a:focus, a:active, a:hover, object, embed, :focus { outline: none !important; }
+:-moz-any-link:focus { outline: none; }
+input::-moz-focus-inner { border: 0; }
+
+
+/* Remove Firefox Dropdown selection dot */
+select:-moz-focusring { color: transparent; text-shadow: 0 0 0 #000; }
+
+
+/* Image */
+a img { border: none; }
+img { max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; } /* max-width:100% causes IE8 bug */
+.img-responsive, .full-width { width: 100%; }
+
+
+/* Selected text */
+::selection { background: #ff5e99; color: #FFFFFF; }
+::-moz-selection { background: #ff5e99; color: #FFFFFF; }
+
+
+/* Style Helper */
+.text-left   { text-align: left; }
+.text-right  { text-align: right; }
+.text-center { text-align: center; }
+.first-child { margin-left:  0 }
+.last-child  { margin-right: 0 }
+.highlight   { background: #ff0; }
+.hide { display: none !important; }
+.lighter { font-weight: 200; }
+
+
+/* Clearfix */
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+  }
+
+
+/* Group Clearfix */
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+  }
+
+
+/* Grid Test for Bootstrap 3 */
+.show-grid .col {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  }
+  .show-grid .col p {
+    background: #eee;
+    margin: auto;
+    }
+
+
+/* Col vertical spacing in mobile */
+@media (max-width: 767px) {
+  .content [class*="col"] {
+    margin-bottom: 15px;
+    }
+}
+

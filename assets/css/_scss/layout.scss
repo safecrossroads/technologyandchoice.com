@@ -1,0 +1,62 @@
+/* Content Width */
+.container,
+.jumbotron .container,
+.carousel .container,
+.carousel .carousel-caption { max-width: $container-width; }
+
+
+/* Normal Fade Animation */
+.animation,
+.back-top a,
+.navbar-toggle {
+  @include transition (all 300ms ease);
+  }
+
+/* Fast  Fade Animation */
+.animation-fast,
+.fade-hover,
+.navbar-fixed-top,
+.navbar-brand,
+.site-title,
+.navbar-nav,
+.navbar-toggle .icon-bar,
+.nav li a,
+#footer li a,
+.maker a,
+.btn {
+  @include transition (all 200ms ease);
+  }
+
+
+.quote-profile img {
+  width: 80px;
+  height: 80px;
+}
+
+
+
+/* SECTION BLOCK STYLE */
+.section-block {
+  padding: 60px 0 (60px - $base-line-height);
+}
+
+
+.dark-bg {
+  background-color: #222;
+}
+
+
+.dark-bg,
+.dark-bg h1,
+.dark-bg h2,
+.dark-bg h3,
+.dark-bg h4  {
+  color: #fff;
+}
+
+
+.section-block .page-header h1,
+.section-block .page-header h2,
+.section-block .page-header h3 {
+  margin: 0;
+}

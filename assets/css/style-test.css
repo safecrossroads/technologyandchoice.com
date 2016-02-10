@@ -1,0 +1,129 @@
+/* Responsive Width Check
+-------------------------------------------------- */
+.style-testing .measurement, body.style-testing:after {
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  bottom: 0px;
+  left: 0;
+  width: 100%;
+  color: #fff;
+  padding: 5px 10px;
+  }
+  body.style-testing:after { position: fixed; text-align: center; }
+  .style-testing .measurement { position: absolute; z-index: 1; position: fixed; }
+  .style-testing .measurement:after { content: "px"; }
+  .style-testing #screen-height { right: 0; text-align: right; }
+  .style-testing #screen-width:before  { content: "W "; color: rgba(255,255,255,0.5); }
+  .style-testing #screen-height:before { content: "H "; color: rgba(255,255,255,0.5); }
+
+
+/* Large Desktop / iMac 5K */
+@media only screen and (min-width: 2561px) {
+  body.style-testing:after {
+    content: "Super Large >2560px";
+    background-color: hsla(0,0%,0%,0.7);
+  }
+}
+
+/* Large Desktop / iMac 5K */
+@media only screen and (max-width: 2560px) {
+  body.style-testing:after {
+    content: "iMac 5k ≤2560px";
+    background-color: hsla(300,60%,40%,0.7);
+  }
+}
+
+/* Desktop */
+@media only screen and (max-width: 1920px) {
+  body.style-testing:after {
+    content: "Desktop ≤1920px";
+    background-color: hsla(240,100%,40%,0.7);
+  }
+}
+
+/* Laptop */
+@media only screen and (max-width: 1440px) {
+  body.style-testing:after {
+    content: "Laptop ≤1440px";
+    background-color: hsla(260,100%,40%,0.7);
+  }
+}
+
+/* iPad Pro Horizontal */
+@media only screen and (max-width: 1366px) {
+  body.style-testing:after {
+    content: "iPad Pro ≤1366px";
+    background-color: hsla(220,100%,40%,0.7);
+  }
+}
+
+/* iPad Horizontal, iPad Pro Vertical */
+@media only screen and (max-width: 1024px) {
+  body.style-testing:after {
+    content: "iPad ≤1024px";
+    background-color: hsla(240,100%,40%,0.7);
+  }
+}
+
+
+/* iPad Vertical */
+@media only screen and (max-width: 768px) {
+  body.style-testing:after {
+    content: "iPad Vertical ≤768px";
+    background-color: hsla(260,100%,40%,0.7);
+  }
+}
+
+            /* iPhone 6+ horizontal */
+            @media only screen and (max-width: 736px) {
+              body.style-testing:after {
+                content: "iPhone6+ ≤736px";
+                background-color: hsla(200,100%,20%,0.7);
+              }
+            }
+            /* iPhone 6 horizontal */
+            @media only screen and (max-width: 667px) {
+              body.style-testing:after {
+                content: "iPhone6 ≤667px";
+                background-color: hsla(160,100%,20%,0.7);
+              }
+            }
+            /* iPhone 5 horizontal */
+            @media only screen and (max-width: 568px) {
+              body.style-testing:after {
+                content: "iPhone5 ≤568px";
+                background-color: hsla(180,50%,20%,0.7);
+              }
+            }
+
+/* Mobile horizontal */
+@media only screen and (max-width: 480px) {
+  body.style-testing:after {
+    content: "iPhone4 ≤480px";
+    background-color: hsla(200,60%,40%,0.7);
+  }
+}
+
+            /* iPhone 6+ vertical */
+            @media only screen and (max-width: 414px) {
+              body.style-testing:after {
+                content: "iPhone6+ Vertical ≤414px";
+                background-color: hsla(30,100%,40%,0.7);
+              }
+            }
+            /* iPhone 6 vertical */
+            @media only screen and (max-width: 375px) {
+              body.style-testing:after {
+                content: "iPhone6 Vertical ≤375px";
+                background-color: hsla(20,100%,40%,0.7);
+              }
+            }
+
+/* Mobile vertical */
+@media only screen and (max-width: 320px) {
+  body.style-testing:after {
+    content: "iPhone4 V ≤320px";
+    background-color: hsla(1,100%,40%,0.7);
+  }
+}

@@ -1,0 +1,181 @@
+<!-- Login box -->
+<div class="widget login-box">
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title">Login</h4>
+  </div><!-- /.parnel-heading -->
+
+  <div class="panel-body">
+    <p class="form-signin-heading">Please sign in</p>
+    <form class="form-horizontal">
+
+      <div class="form-group">
+        <div class="col-sm-12">
+          <label class="sr-only" for="inputEmail">Email address</label>
+          <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-sm-12">
+          <label class="sr-only" for="inputPassword3">Password</label>
+          <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-sm-12">
+          <div class="checkbox">
+          <label><input type="checkbox"> Remember me</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-sm-12">
+          <button type="submit" class="btn btn-primary">Sign in</button>
+        </div>
+      </div>
+
+    </form>
+
+
+  </div><!-- /.panel-body -->
+</div><!-- /.panel -->
+</div><!-- /.login-box -->
+
+
+
+
+<!-- Media embed -->
+<div class="widget media-embed">
+  <h4 class="page-header">Media embed</h4>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UDVtMYqUAyw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div><!-- /.media-embed -->
+
+
+
+
+<!-- Widget Featured -->
+<div class="widget featured-post">
+  <h4 class="page-header">Featured Post</h4>
+
+  <!-- Emulates `limit:1` -->
+  <ul class="featured-post-list nostyle">
+  {% for post in site.posts %}
+
+      {% if post.featured == true %}
+        {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+        {% if count == '1' %}
+
+
+        <li class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}" >
+          <a href="{{ post.url | prepend: site.baseurl }}">
+
+            {% if post.thumbnail %}
+            <div class="list-thumbnail">
+              <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
+            </div>
+            {% endif %}
+            <div class="media-body list-desc">
+              <h4 class="media-heading list-title">{{ post.title }}</h4>
+              <small class="post-meta">{{ post.date | date_to_string }}</small>
+            </div>
+          </a>
+        </li>
+
+
+        {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  <!-- Emulates `limit:2 offset:1` -->
+  {% for post in site.posts %}
+    {% if post.featured == true %}
+      {% capture counttwo %}{{ counttwo | plus: '1' }}{% endcapture %}
+      {% if counttwo == '2' or counttwo == '3' %}
+
+
+        <li class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+
+            {% if post.thumbnail %}
+            <div class="list-thumbnail">
+              <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
+            </div>
+            {% endif %}
+            <div class="media-body list-desc">
+              <h4 class="media-heading list-title">{{ post.title }}</h4>
+              <small class="post-meta">{{ post.date | date_to_string }}</small>
+            </div>
+          </a>
+        </li>
+
+
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+  </ul>
+</div><!-- /.widget featured -->
+
+
+
+
+<!-- Latest Post List -->
+<div class="widget latest-post">
+  <h4 class="page-header">Latest post</h4>
+
+  <div class="post-list">
+    <ul class="posts">
+    {% for post in site.posts limit:5 %}
+      <li class="latest-list-item">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <span class="split">&middot;</span>
+      <small class="entry-date">
+        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date_to_string }}</time>
+      </small></li>
+    {% endfor %}
+    </ul>
+  </div>
+
+</div><!-- /.latest-post -->
+
+
+
+<!-- Tags -->
+<div class="twidget tag-cloud">
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+  <h4 class="page-header">Tag Cloud</h4>
+  <ul class="all-tags inline">
+    {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+    <li class="all-tags-item">
+      <a href="/tags/#{{ this_word | cgi_escape }}">{{ this_word }}
+        <small>({{ site.tags[this_word].size }})</small>
+      </a>
+    </li>
+   {% endunless %}{% endfor %}
+  </ul>
+</div><!-- /.tag-cloud -->
+
+
+
+
+<!-- Widget Subscription Box -->
+<div class="widget newsletter-subscription-box">
+  <h4 class="page-header">Newsletter Subscription</h4>
+  <p>Subscribe to our weekly Newsletter and stay tuned</p>
+
+  <form action="" method="post">
+    <div class="input-prepend"><span class="add-on"><i class="icon-envelope"></i></span>
+      <input type="text" id="" name="" placeholder="your@email.com">
+    </div>
+    <br>
+    <input type="submit" value="Subscribe Now!" class="btn btn-success btn-large" />
+  </form>
+</div><!-- /.newsletter -->
+

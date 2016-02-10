@@ -1,0 +1,263 @@
+/* ------------------------------------------
+  Carousel Fading animation
+------------------------------------------ */
+.carousel {
+  max-height: 720px;
+  overflow: hidden;
+  z-index: 0; /* Fixes content flickering during transition */
+  }
+
+/* Carousel Control Custom */
+.carousel-control .control-icon {
+  font-size: 48px;
+  height: 30px;
+  margin-top: -15px;
+  width: 30px;
+  display: inline-block;
+  position: absolute;
+  top: 48%;
+  z-index: 5;
+  }
+  /* Prev */
+  .carousel-control .prev {
+    margin-left: -15px;
+    left: 50%;
+    }
+  /* Next */
+  .carousel-control .next {
+    margin-right: -15px;
+    right: 50%;
+    }
+
+
+/* Animation */
+.control-box,
+a.carousel-control,
+.carousel-indicators li { @include transition(all 250ms ease-in-out); }
+
+
+/* Removing BS L/R background */
+.carousel .control-box { opacity: 0; }
+.carousel-control.left  { left: 0; background: none; border: 0;}
+.carousel-control.right { right: 0; background: none; border: 0;}
+
+
+/* Hover animation */
+.carousel:hover {
+  .control-box { opacity: 1; }
+  .carousel-control.left { left: 15px; }
+  .carousel-control.right { right: 15px; }
+  }
+
+
+/* Carouse Indicator */
+.carousel-indicators {
+  li { background: #999; margin: 0 3px; width: 12px; height: 12px; border: 0; }
+  li.active { background: #fff; margin: 0 3px; border: 0; }
+  }
+  /* Smaller indicator size */
+  @media (max-width: 991px) {
+    .carousel-indicators { bottom: 30px; }
+    .carousel-indicators li,
+    .carousel-indicators .active {
+      height: 4px;
+      width:  4px;
+      }
+      .carousel .control-box { opacity: 1; }
+      .carousel-control .control-icon { font-size: 24px;  }
+      .carousel:hover .carousel-control.left  { left:  0; }
+      .carousel:hover .carousel-control.right { right: 0; }
+  }/* /@media */
+
+
+/* Carousel Fading slide */
+.carousel-fade {
+  .carousel-inner { background: #000; }
+  .carousel-control { z-index: 2; }
+  .item { opacity: 0; @include transition-property(opacity); }
+  .active, .next.left, .prev.right { opacity: 1; }
+  .active.left, .active.right { left: 0; opacity: 0; z-index: 1; }
+
+    /* Safari Fix */
+    @media all and (transform-3d), (-webkit-transform-3d) {
+      .carousel-inner > .item.next,
+      .carousel-inner > .item.prev,
+      .carousel-inner > .item.active.right,
+      .carousel-inner > .item.active.left{
+        opacity: 0; @include transform(translate3d(0, 0, 0)); }
+
+      .carousel-inner > .item.next.left,
+      .carousel-inner > .item.prev.right,
+      .carousel-inner > .item.active {
+        opacity: 1; @include transform(translate3d(0, 0, 0)); }
+    }
+}
+
+
+
+
+/* ------------------------------------------
+  Carousel Caption Responsive
+------------------------------------------ */
+/* Set limit */
+.carousel-responsive-caption .item {
+  height: 100%;
+  max-height: 800px;
+  min-height: 550px;
+  }
+
+
+/* Centering Caption */
+.carousel-caption {
+  width: 100%;
+  padding: 0 100px;
+  z-index: 0; /* z-index for indicator */
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 1);
+
+  /* Center div */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  @include transform(translate(-50%, -50%));
+  }
+
+
+/* Font Style */
+.carousel .caption-title {
+  font-size: modular-scale(4);
+  color: #fff;
+  margin: 0 auto 15px;
+  }
+
+.carousel .lead {
+  font-size: modular-scale(1);
+  color: #fff;
+  margin-bottom: 25px;
+  }
+
+
+  /* Mobile Scroller */
+.carousel .smooth-scroll span {
+  font-size: 30px;
+  margin: -70px auto 0;
+  width: 100%;
+  color: #fff;
+  @include animation-duration(2s);
+  }
+  @media (min-width: 768px) {
+    .carousel .smooth-scroll {
+    display: none;
+    }
+  }
+
+
+
+/* Fill Carousel BG
+------------------------------------------ */
+.carousel-responsive-caption {
+  margin-top: 0;
+
+  .item,
+  .carousel-inner { height: 100%; }
+
+  .carousel-inner .item {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #333;
+    }
+    .carousel-inner .slide1 {
+      background-image:url(../img/banner-slider-01.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide2 {
+      background-image:url(../img/banner-slider-02.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide3 {
+      background-image:url(../img/banner-slider-03.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide4 {
+      background-image:url(../img/banner-slider-04.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide5 {
+      background-image:url(../img/banner-slider-05.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide6 {
+      background-image:url(../img/banner-slider-06.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide7 {
+      background-image:url(../img/banner-slider-07.jpg);
+      background-position: center center;
+      }
+    .carousel-inner .slide8 {
+      background-image:url(../img/banner-slider-08.jpg);
+      background-position: center center;
+      }
+/* End */
+}
+
+
+
+
+/* TABLET*/
+@media (max-width: 767px) {
+  .carousel .caption-title {
+    font-size: modular-scale(3);
+    margin: 0 auto 15px;
+    }
+  .carousel .lead {
+    font-size: modular-scale(1);
+    margin-bottom: 25px;
+    }
+  .carousel-caption .btn {
+    font-size: modular-scale(0);
+    padding: 5px 10px;
+    }
+
+  .carousel-responsive-caption .item {
+    min-height: 550px;
+    }
+  .carousel-caption {
+    padding: 0 40px;
+  }
+
+/* End */
+}
+
+
+/* TABLET MINI */
+  @media (max-width: 640px) {
+    .carousel .caption-title {
+      font-size: modular-scale(2);
+      }
+    .carousel .lead {
+      font-size: modular-scale(0);
+      }
+  /* End */
+  }
+
+
+/* iPhone6 */
+@media (max-width: 480px), (max-height: 600px) {
+  .carousel-responsive-caption .item {
+    min-height: 520px;
+    }
+}
+
+
+/* iPhone4 */
+@media (max-width: 320px), (max-height: 480px) {
+  .carousel-caption {
+    top: 40%;
+  }
+  .carousel .lead {
+  font-size: 0.875rem;
+  }
+  .carousel-responsive-caption .item {
+    min-height: 360px;
+    }
+}

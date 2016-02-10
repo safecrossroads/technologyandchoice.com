@@ -1,0 +1,125 @@
+/* Reset List Style */
+ul.nostyle {
+  list-style-type: none;
+  padding-left: 0;
+  }
+  ul.nostyle ul {
+    padding-left: 44px;
+    margin-bottom: 20px;
+    }
+
+
+/* Custom List Style */
+ul.custom-list {
+  list-style-type: none;
+  padding-left: 22px;
+  }
+  ul.custom-list li:before {
+    color: #30aca2;
+    content: "-";
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 8px 0 -13px;
+  }
+
+.check-green {
+  color: #30aca2;
+  font-size: x-large;
+  margin-top: 3px;
+  }
+
+
+
+
+
+
+
+/* POST LIST (BLOG HOME)
+-------------------------------------- */
+
+/* A list */
+.post-list-item {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+  }
+
+  /* A list heading */
+ .post-list-item .media-heading {
+   font-size: modular-scale(2);
+   }
+   .post-list-item .media-heading a {
+     font-size: inherit;
+     color: #000;
+     }
+
+
+  /* A list meta */
+  .post-list-item .post-meta {
+    font-size: 0.789rem;
+    margin-bottom: 10px;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #aaa;
+    }
+    .post-list-item .post-meta a { color: #aaa; }
+
+
+  /* A list Excerpt */
+    .post-list-item .post-excerpt,
+    .post-list-item .post-excerpt p {
+      margin-bottom: 10px;
+      line-height: normal;
+      }
+
+
+/* A List Tumbnail (3:2 Square) */
+.list-thumbnail {
+  display: inline-block;
+  }
+
+  .list-thumbnail .placeholder {
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 66.67%; /* 3:2 */
+    background-position: center center !important;
+    background-size: cover !important;
+    }
+
+
+  /* A list with Thumbnail position*/
+  .post-list-item-thumbnail .list-thumbnail {
+    width: 30%;
+    float: left;
+    }
+  .post-list-item-thumbnail .list-desc {
+    width: 70%;
+    float: right;
+    padding-left: 25px;
+    }
+
+
+
+/* Hover */
+ .post-list .post-link:hover,
+ .post-list .list-thumbnail:hover {
+    opacity: 0.6;
+    }
+
+
+/* Mobile view */
+@media (max-width:991px) {
+   .post-list-item .media-heading {
+     font-size: modular-scale(1);
+     }
+  .post-list .post-excerpt p {
+     font-size: modular-scale(-1);
+     }
+}
+
+
+@media (max-width:480px) {
+  .post-list-item .media-heading { font-size: modular-scale(0); }
+  .post-list .post-excerpt { display: none; }
+  .post-list .post-meta    { font-size: 0.625rem; }
+}
+

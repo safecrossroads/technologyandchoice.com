@@ -1,0 +1,14 @@
+<!-- Pager Pagination for post -->
+<ul class="pagination">
+  {% if page.previous.url %}
+  <li class="pagination-item older">
+    <a href="{{ site.baseurl }}{{ page.previous.url }}">&larr; Older</a>
+  </li>
+  {% endif %}
+
+  {% if page.next.url %}
+  <li class="pagination-item newer">
+    <a href="{{ site.baseurl }}{{ page.next.url }}">Newer &rarr;</a>
+  </li>
+  {% endif %}
+</ul>

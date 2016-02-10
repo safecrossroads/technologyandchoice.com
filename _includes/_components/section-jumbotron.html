@@ -1,0 +1,20 @@
+<!-- Jumbotron -->
+{% if page.thumbnail %}
+<div class="jumbotron main-header main-header-bg" style="background-image: url('{{site.baseurl}}/{{ page.thumbnail }}'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+{% else %}
+<div class="jumbotron main-header">
+{% endif %}
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-12 jumbotron-text scroll-fade">
+        <h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
+
+        <p class="lead">{{page.excerpt}}</p>
+
+        <p><a class="btn btn-primary btn-lg popup popup-video" href="{{site.videoLink}}">Book Now &raquo;</a></p>
+      </div><!-- /.col-sm-12 -->
+    </div><!-- /.row -->
+
+  </div><!-- /.container -->
+</div><!-- /.jumbotron -->

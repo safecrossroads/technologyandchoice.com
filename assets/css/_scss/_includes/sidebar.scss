@@ -1,0 +1,26 @@
+@media (min-width:768px){
+  .sidebar .page-header.heading-top { margin-top: 0; }
+  .sidebar { padding-left: 40px; }
+  }
+
+
+.sidebar .page-header {
+  border-bottom: 1px solid #eee;
+  margin: 40px 0 12px;
+  padding-bottom: 10px;
+}
+
+
+
+/* Sidebar Featured Post Widget
+-------------------------------------- */
+
+/* A list textbox */
+.sidebar .post-list-item .media-heading {
+  font-size: modular-scale(0);
+}
+.sidebar .post-list-item-thumbnail .list-desc {
+  padding-left: 10px;
+  }
+
+

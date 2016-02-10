@@ -1,0 +1,62 @@
+
+<!-- Contact -->
+<section id="contact" class="section-block">
+	<div class="container">
+
+
+		<div class="page-header text-center">
+		  <h2>Contact Us</h2>
+		  <p class="byline">The Very Best Way To Get in Touch With Us.</p>
+		</div><!-- /.page-header-->
+
+
+		<div class="row">
+
+			<div class="col-sm-7 map">
+			<span class="mapaddress">{{site.userInfo.address}}</span>
+			</div><!-- /.col-sm-7 -->
+
+			<div class="col-sm-5">
+				<div class="address-box">
+
+				<h3>Address:</h3>
+
+					<address class="address">
+					{{site.userInfo.address}}
+					</address>
+
+					<p>P.O.BOX: {{site.userInfo.pobox}}</p>
+					<p>PH: {{site.userInfo.phone}}<br />
+					FAX: {{site.userInfo.fax}}</p>
+
+					<p>Please feel free to contact us for more information.<br>
+					Send us an e-mail by filling out the form below.</p>
+
+					<p class="working-hours">{{site.userInfo.workingHours}}</p>
+
+				</div><!-- /.address-box -->
+			</div><!-- /.col-sm-5 -->
+
+		</div><!-- /.row -->
+
+
+		<!-- Contact Form -->
+		<div class="row">
+			<div class="col-sm-12 contact-box">
+
+				<!-- Popup trigger -->
+				<div class="text-center">
+					<button type="button" class="btn btn-danger btn-large" data-toggle="collapse" data-target="#contact-form">
+					<i class="icon-arrow-right"></i> <strong>SEND US AN ENQUIRY</strong>
+					</button>
+				</div>
+
+				<div id="contact-form" class="collapse">
+				{% include _components/contact-form.html %}
+				</div><!-- /#contact-form -->
+
+			</div><!-- /.col-sm-12 -->
+		</div><!-- /.row -->
+
+	</div><!-- /.container -->
+</section>

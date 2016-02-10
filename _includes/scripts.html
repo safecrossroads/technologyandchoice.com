@@ -1,0 +1,28 @@
+
+
+  {% include _components/modal.html %}
+
+
+  <!-- Scripts -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="{{site.baseurl | prepend: site.url}}/assets/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+  <script src="{{site.baseurl | prepend: site.url}}/assets/js/main.js?v{{site.time | date: '%s'}}"></script>
+
+
+  <!--[if lte IE 10]>
+    <div class="ie-warning alert alert-danger alert-dismissable">
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    You are using an <strong>outdated</strong> browser. Please <a href="http://www.whatbrowser.org/">upgrade your browser</a> to improve your experience.</div>
+  <![endif]-->
+
+
+  {% if site.trackingID == empty %}{% else %}<!-- Tracking code -->
+  <script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    e.src='https://www.google-analytics.com/analytics.js';
+    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    ga('create','{{site.trackingID}}','auto');ga('send','pageview');
+  </script>
+  {% endif %}

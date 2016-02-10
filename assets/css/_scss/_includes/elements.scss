@@ -1,0 +1,29 @@
+/* No radius */
+.modal-content,
+.tooltip,
+.popover {
+	border-radius: 0px;
+	}
+
+/* Popover */
+.popover {
+	max-width: 90%;
+	border-radius: 0px;
+	}
+
+/* Tooltip */
+.tooltip {
+	font-size: 0.94rem;
+	line-height: 1.25rem;
+	}
+	.tooltip-inner { /* space inside tooltip */
+		max-width: 200px;
+		padding: 10px 14px;
+		border-radius: 0px;
+		}
+
+
+/* Post Meta */
+.post-meta .split {
+	font-size: 18px;
+  }

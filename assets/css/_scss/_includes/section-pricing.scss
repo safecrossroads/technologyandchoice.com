@@ -1,0 +1,50 @@
+/* Pricing section */
+#pricing {
+  background: #c9d3d7;
+}
+
+.pricelist {
+    text-align: center;
+    border: 5px solid #DDDDDD !important;
+    border-radius: 0px !important;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5) !important;
+    /* prevents alignment in static view */
+    box-sizing: border-box;
+  }
+  .price-title h3 { font-weight: 700; }
+  .pricelist.bestseller {
+      border: 10px solid #304353 !important;
+      background: #fff;
+      color: #333;
+      }
+
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+.price-title h3 {
+    border-bottom: 5px solid #DDDDDD;
+    font-size: 1rem;
+    }
+    .pricelist .tick-box li {
+       font-size: 0.75rem;
+        }
+
+
+    #pricing .pricelist:first-child {
+         margin-left: 4% !important;
+        }
+        .pricelist {
+            margin-left: 0 !important;
+            text-align: center;
+            }
+    }
+
+
+@media (min-width: 768px) {
+    .pricelist.bestseller {
+    @include transform(scale3d(1.15, 1.15, 1));
+    }
+}
+
+

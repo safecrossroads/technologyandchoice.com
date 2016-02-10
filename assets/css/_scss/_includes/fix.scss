@@ -1,0 +1,45 @@
+/* Firefox img opacity jog fix */
+a img { -moz-transform:rotate(360deg); }
+
+
+/* IE img flicker fix */
+html { filter: expression(document.execCommand("BackgroundImageCache", false, true)); }
+
+
+/* Bootstrap Thumbnail box margin left */
+.thumbnails { margin-left: 0; }
+
+
+/* Responsive Google Map - add 'map' class */
+.map iframe { width: 100% !important; }
+
+
+/* Video embed border */
+iframe { border: 0; }
+
+
+/* Animation Fix
+-webkit-transform: translate3d(0, 0, 0); Webkit Hardware Acceleration
+Caution: -webkit-transform: translateZ(0); This causes webkit animation bug
+Caution: -webkit-backface-visibility: hidden; This causes iPad crash, Mac Safari font becoming lighter
+*/
+
+/* Normal Fade Animation */
+.animation,
+.navbar-toggle {
+  @include transform-style(preserve-3d);
+  }
+
+/* Fast  Fade Animation */
+.animation-fast,
+.fade-hover,
+.logo-box a,
+.nav li a,
+#footer li a,
+.maker a,
+.back-top a {
+  @include transform-style(preserve-3d);
+  @include transform(translateZ(0));
+  }
+
+a:active i { text-decoration: none; }

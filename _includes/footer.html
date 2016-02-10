@@ -1,0 +1,61 @@
+<footer id="site-footer" class="site-footer">
+  <hr class="divider">
+  <div class="container">
+
+
+    <!-- Footer menu -->
+    <div class="footer-menu">
+
+
+      <ul class="footer-nav list-inline">
+        <li><a href="{{site.baseurl}}/index.html">Home</a></li>
+        <li><a href="{{site.baseurl}}/index-carousel.html">Carousel</a></li>
+        <li><a href="{{site.baseurl}}/index-carousel-caption.html">Carousel Caption</a></li>
+        <li><a href="http://termsfeed.com/terms-conditions/generator/">Terms</a></li>
+        <li><a href="https://www.freeprivacypolicy.com">Privacy</a></li>
+        <li><a onmouseover="this.style.cursor='pointer'" data-toggle="popover" data-placement="top" title="The MIT License (MIT)" data-content="Copyright (c) {{site.copyrightYear}} {{site.designer}}">License</a></li><!-- Popover demo -->
+        <li><a onmouseover="this.style.cursor='pointer'" data-toggle="tooltip" data-placement="top" title="{{site.version}}">Version</a></li><!-- Tooltip demo -->
+        <li class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe</a></li>
+      </ul>
+
+
+      <!-- SNS Links -->
+      <ul class="sns-icons list-inline">
+        {% if site.snsLink.facebook == empty %}{% else %}<li><a class="sns-facebook" href="{{site.snsLink.facebook}}"><i class="genericon genericon-facebook"></i> <span>Facebook</span></a></li>{% endif %}
+        {% if site.snsLink.twitter == empty %}{% else %}<li><a class="sns-twitter" href="{{site.snsLink.twitter}}"><i class="genericon genericon-twitter"></i> <span>Twitter</span></a></li>{% endif %}
+        {% if site.snsLink.tumblr == empty %}{% else %}<li><a class="sns-tumblr" href="{{site.snsLink.tumblr}}"><i class="genericon genericon-tumblr"></i> <span>Tumblr</span></a></li>{% endif %}
+        {% if site.snsLink.googleplus == empty %}{% else %}<li><a class="sns-google" href="{{site.snsLink.googleplus}}"><i class="genericon genericon-googleplus"></i>  <span>Google+</span></a></li>{% endif %}
+        {% if site.snsLink.instagram == empty %}{% else %}<li><a class="sns-instagram" href="{{site.snsLink.instagram}}"><i class="genericon genericon-instagram"></i> <span>Instagram</span></a></li>{% endif %}
+        {% if site.snsLink.youtube == empty %}{% else %}<li><a class="sns-youtube" href="{{site.snsLink.youtube}}"><i class="genericon genericon-youtube"></i> <span>Media</span></a></li>{% endif %}
+        {% if site.snsLink.github == empty %}{% else %}<li><a class="sns-github" href="{{site.snsLink.github}}"><i class="genericon genericon-github"></i> <span>Github</span></a></li>{% endif %}
+        {% if site.snsLink.contact == empty %}{% else %}<li><a class="sns-linkedin" href="{{site.snsLink.linkedin}}"><i class="genericon genericon-linkedin"></i> <span>Linkedin</span></a></li>{% endif %}
+      </ul>
+
+
+    </div><!-- /.footer-nav-->
+
+    {% if site.footerNote %}
+    <div class="footer-note"><p class="legal">{{site.footerNote}}</p></div>
+    {% endif %}
+
+    <div class="copyright">
+      &copy; {{site.copyrightYear}} {{site.copyright}}
+      <span class="maker">Designed &amp; developed by <a href="{{site.designerURL}}">{{site.designer}}</a></span>
+    </div>
+    <div class="back-top">
+      <a href="#top"><i class="genericon genericon-collapse"></i> <span>Back to top</span></a>
+    </div>
+
+
+  </div><!-- /.container -->
+</footer><!-- /#footer -->
+
+
+{% if site.testMode == 'on' %}
+<!-- Screen size tester -->
+<div class="testbox">
+<!-- <label><input id="toggle-tester" name="toggle" type="checkbox"><b>Toggle Tester</b></label> -->
+  <span id="screen-width" class="measurement"></span>
+  <span id="screen-height" class="measurement"></span>
+</div>
+{% endif %}

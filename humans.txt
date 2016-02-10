@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Alex - Web Designer
+
+# THANKS
+
+
+# TECHNOLOGY COLOPHON
+    CSS3, HTML5, Bootstrap, jQuery

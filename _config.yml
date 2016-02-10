@@ -1,0 +1,110 @@
+# CONFIG - Refresh terminal command after updating this file
+testMode:     "on"                  # on|off: Display testing helpers
+gems:
+  - bourbon
+  - jekyll-paginate
+
+
+
+# Site settings
+title:        "RFBP"
+slogan:       "Jekyll + Bootstrap"
+description:  "Redfrost Jekyll boilerplate"
+url:          ""                       # the base hostname (*Do not close with /)
+baseurl:      ""                       # the subpath of your site, e.g. /blog (Use this for Github project page)
+language:     "en"
+
+
+# Build settings
+markdown:      kramdown
+sass:
+  sass_dir:    assets/css/_scss         # default sass_dir
+  syntax:      scss                     # scss | sass
+  style:       compressed               # nested | expanded | compact | compressed
+
+
+
+# Meta
+owner:         "Redfrost"               # Site owner
+copyright:     "Redfrost Design"        # Copyright holder
+copyrightYear: "2016"                   # Since
+designer:      "Redfrost"               # Designer / Developer name
+designerURL:   "http://redfrost.com/"   # Designer / Developer website
+version:       "v1.0"                   # Dev version
+FacebookAppID: ""                       # Facebook App ID
+
+
+
+# Layout
+layout:        "responsive"              # static | responsive
+topNavbar:     "on"                     # on | off: top fixed nav
+logoType:      "image"                    # text | image
+gridClass:
+  main:        "col-sm-8"
+  sidebar:     "col-sm-4"
+
+
+
+# Collection
+collections:
+  docs:
+    output: true
+
+
+
+# Posting Default
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mr. Hyde"
+      tags:   "post"
+
+permalink:     post/:categories/:year/:month/:title/   #Post URL
+paginate_path: "/post/page:num/"
+paginate:      8
+
+
+
+# User
+userInfo:
+  company:     "Opera house"
+  email:       "info@redfrost.com"
+  address:     "Bennelong Point Sydney NSW 2000 Australia"
+  pobox:       "Royal Exchange Sydney"
+  phone:       "(123) 456 7890"
+  mobile:      "123 456 7890"
+  fax:         "(123) 456 7891"
+  hours:       "Working hours: 9:00AM - 5:00PM (Monday to Friday)"
+  map:         "https://goo.gl/maps/2gBJJQnHTiM2"
+
+
+
+# Links
+snsLink:
+  facebook:    "#"    # Facebook
+  twitter:     "#"    # Twitter
+  tumblr:      "#"    # Tumblr
+  googleplus:  "#"    # Google+
+  instagram:   "#"    # Instagram
+  youtube:     "#"    # Youtube
+  github:      "#"    # Github
+  linkedin:    "#"    # Linkedin
+
+
+
+# Add-on
+formLink:      ""     # form Link
+formID:        ""     # form ID
+disqus:        ""     # Disqus ID
+trackingID:    ""     # Google analytics ID
+videoLink:     "http://player.vimeo.com/video/56860648" # Promo Video
+
+
+
+# Footer Note
+footerNote:    "<b>IMPORTANT:</b> All works of art within this web site are protected under copyright laws and international conventions. No portion of the artists works or statements may be used, downloaded, reproduced using any means, copied, linked to, or transferred electronically, without prior written permission from the artist."
+
+
