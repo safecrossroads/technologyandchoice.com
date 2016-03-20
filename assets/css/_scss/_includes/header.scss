@@ -415,11 +415,13 @@ Desktop ONLY. Use JS for both Desktop and Mobile devices. */
 /* NAVBAR Pull-up Menu
 -------------------------------------- */
 .pull-up-menu.navbar-fixed-top.scroll-down {
-  margin-top: -100px;
+  @include transform(translateY(-100px)); /* use translate to fix Safari image rendering bug */
   }
   @media (max-width: $mobile-break-point) {
   .navbar-fixed-top.pull-up-menu {
     position: fixed;
     }
   }
+
+
 

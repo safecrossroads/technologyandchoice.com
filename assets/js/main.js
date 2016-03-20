@@ -52,7 +52,7 @@ jQuery(document).ready(function() {
 });
 
 
-// Parallax
+// Scroll-fade
 jQuery(document).ready(function () {
   var fadeStart=0 // 100px scroll or less will equiv to 1 opacity
     ,fadeUntil=360 // 200px scroll or more will equiv to 0 opacity
