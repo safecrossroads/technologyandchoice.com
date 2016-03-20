@@ -1,5 +1,5 @@
 
-  <header id="gnb" class="navbar navbar-default {% if site.topNavbar == 'on' %}navbar-fixed-top{% else %}navbar-standard{% endif %}" role="banner">
+  <header id="gnb" class="navbar navbar-default {% if site.topNavbar == 'on' %}navbar-fixed-top{% else %}navbar-standard{% endif %} pull-up-menu" role="banner">
     <div class="container">
 
 
@@ -19,7 +19,7 @@
             <img alt="{{site.title}}" src="{{site.baseurl | prepend: site.url}}/assets/brand/logo.png" width="{{site.logoWidth}}">
           </a>{% else %}
 
-          <a class="navbar-brand site-title logo-text" href="{{site.baseurl}}/">
+          <a class="navbar-brand site-title logo-text" href="{{site.baseurl | prepend: site.url}}">
             <strong>{{site.title}}</strong> {% if site.slogan == empty %}{% else %}
             <small class="slogan">{{site.slogan}}</small>{% endif %}
           </a>

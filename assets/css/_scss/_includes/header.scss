@@ -395,13 +395,31 @@ Desktop ONLY. Use JS for both Desktop and Mobile devices. */
 
 
 
-/* NNAVBAR AFFIX
--------------------------------------- */
+/* NAVBAR AFFIX
+--------------------------------------
 @media (min-width:992px) {
-  .navbar-fixed-top.affix { height: 50px; }
-  .navbar-fixed-top.affix .navbar-nav { padding: 4px 0; }
+  .navbar-fixed-top.affix {
+    height: 50px;
+  }
+  .navbar-fixed-top.affix .navbar-nav {
+    padding: 4px 0;
+
+  }
   .navbar-fixed-top.affix .navbar-brand {
-      width: $navbar-logo-mobile-width;
-      padding: $navbar-logo-mobile-padding;
+      margin-top: -80px;
       }
 }
+*/
+
+
+/* NAVBAR Pull-up Menu
+-------------------------------------- */
+.pull-up-menu.navbar-fixed-top.scroll-down {
+  margin-top: -100px;
+  }
+  @media (max-width: $mobile-break-point) {
+  .navbar-fixed-top.pull-up-menu {
+    position: fixed;
+    }
+  }
+

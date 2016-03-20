@@ -21,14 +21,22 @@
 
       <!-- SNS Links -->
       <ul class="sns-icons list-inline">
-        {% if site.snsLink.facebook == empty %}{% else %}<li><a class="sns-facebook" href="{{site.snsLink.facebook}}"><i class="genericon genericon-facebook"></i> <span>Facebook</span></a></li>{% endif %}
-        {% if site.snsLink.twitter == empty %}{% else %}<li><a class="sns-twitter" href="{{site.snsLink.twitter}}"><i class="genericon genericon-twitter"></i> <span>Twitter</span></a></li>{% endif %}
-        {% if site.snsLink.tumblr == empty %}{% else %}<li><a class="sns-tumblr" href="{{site.snsLink.tumblr}}"><i class="genericon genericon-tumblr"></i> <span>Tumblr</span></a></li>{% endif %}
-        {% if site.snsLink.googleplus == empty %}{% else %}<li><a class="sns-google" href="{{site.snsLink.googleplus}}"><i class="genericon genericon-googleplus"></i>  <span>Google+</span></a></li>{% endif %}
-        {% if site.snsLink.instagram == empty %}{% else %}<li><a class="sns-instagram" href="{{site.snsLink.instagram}}"><i class="genericon genericon-instagram"></i> <span>Instagram</span></a></li>{% endif %}
-        {% if site.snsLink.youtube == empty %}{% else %}<li><a class="sns-youtube" href="{{site.snsLink.youtube}}"><i class="genericon genericon-youtube"></i> <span>Media</span></a></li>{% endif %}
-        {% if site.snsLink.github == empty %}{% else %}<li><a class="sns-github" href="{{site.snsLink.github}}"><i class="genericon genericon-github"></i> <span>Github</span></a></li>{% endif %}
-        {% if site.snsLink.contact == empty %}{% else %}<li><a class="sns-linkedin" href="{{site.snsLink.linkedin}}"><i class="genericon genericon-linkedin"></i> <span>Linkedin</span></a></li>{% endif %}
+        {% if site.snsLink.facebook == empty %}{% else %}
+        <li><a class="sns-facebook" target="_blank" href="{{site.snsLink.facebook}}"><i class="genericon genericon-facebook"></i> <span>Facebook</span></a></li>{% endif %}
+        {% if site.snsLink.twitter == empty %}{% else %}
+        <li><a class="sns-twitter" target="_blank" href="{{site.snsLink.twitter}}"><i class="genericon genericon-twitter"></i> <span>Twitter</span></a></li>{% endif %}
+        {% if site.snsLink.tumblr == empty %}{% else %}
+        <li><a class="sns-tumblr" target="_blank" href="{{site.snsLink.tumblr}}"><i class="genericon genericon-tumblr"></i> <span>Tumblr</span></a></li>{% endif %}
+        {% if site.snsLink.googleplus == empty %}{% else %}
+        <li><a class="sns-google" target="_blank" href="{{site.snsLink.googleplus}}" rel="publisher"><i class="genericon genericon-googleplus"></i>  <span>Google+</span></a></li>{% endif %}
+        {% if site.snsLink.instagram == empty %}{% else %}
+        <li><a class="sns-instagram" target="_blank" href="{{site.snsLink.instagram}}"><i class="genericon genericon-instagram"></i> <span>Instagram</span></a></li>{% endif %}
+        {% if site.snsLink.youtube == empty %}{% else %}
+        <li><a class="sns-youtube" target="_blank" href="{{site.snsLink.youtube}}"><i class="genericon genericon-youtube"></i> <span>Media</span></a></li>{% endif %}
+        {% if site.snsLink.github == empty %}{% else %}
+        <li><a class="sns-github" target="_blank" href="{{site.snsLink.github}}"><i class="genericon genericon-github"></i> <span>Github</span></a></li>{% endif %}
+        {% if site.snsLink.linkedin == empty %}{% else %}
+        <li><a class="sns-linkedin" target="_blank" href="{{site.snsLink.linkedin}}"><i class="genericon genericon-linkedin"></i> <span>Linkedin</span></a></li>{% endif %}
       </ul>
 
 
@@ -40,7 +48,7 @@
 
     <div class="copyright">
       &copy; {{site.copyrightYear}} {{site.copyright}}
-      <span class="maker">Designed &amp; developed by <a href="{{site.designerURL}}">{{site.designer}}</a></span>
+      <span class="maker">Designed &amp; developed by <a href="{{site.designerURL}}" target="_blank">{{site.designer}}</a></span>
     </div>
     <div class="back-top">
       <a href="#top"><i class="genericon genericon-collapse"></i> <span>Back to top</span></a>

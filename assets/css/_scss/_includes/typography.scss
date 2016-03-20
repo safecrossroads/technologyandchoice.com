@@ -60,3 +60,13 @@ p {
   letter-spacing: 0.01rem;
   }
 
+
+
+/* Mobile */
+@media (max-width: 640px) {
+  h1,h1 a,.jumbotron .h1,.jumbotron h1 { font-size: modular-scale(3); }
+  h2,h2 a, .post-title { font-size: modular-scale(2); }
+  h3,h3 a { font-size: modular-scale(1); }
+  h4,h4 a { font-size: modular-scale(0); }
+  /* End */
+}

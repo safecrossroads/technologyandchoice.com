@@ -1,9 +1,9 @@
+/* Printing Style */
 * {-webkit-print-color-adjust:exact;}
-
 
 @media print {
   *,
-  *:before,enter code here
+  *:before,
   *:after {
     color: #000 !important;
     text-shadow: none !important;
@@ -76,3 +76,4 @@
     border: 1px solid #ddd !important;
   }
 }
+

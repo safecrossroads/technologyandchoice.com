@@ -12,7 +12,7 @@
 
 
 // LAYOUT
-$container-width: 1170px;
+$container-width: 1140px;
 
 
 // FONT STYLE
@@ -32,15 +32,15 @@ $modular-scale-base: 1rem;
 // NAV BAR
 $mobile-break-point: 767px;
 $navbar-bg: #fff;
-$navbar-border-bottom: 3px solid #bbb;
+$navbar-border-bottom: 1px solid #bbb;
 $navbar-height: 100px;
 
 
 // LOGO
-$navbar-logo-width: 280px;
-$navbar-logo-padding: 20px 15px;
+$navbar-logo-width: 300px;
+$navbar-logo-padding: 15px 15px;
   $navbar-logo-mobile-width: 200px;
-  $navbar-logo-mobile-padding: 6px 15px;
+  $navbar-logo-mobile-padding: 4px 15px;
 
 
 // NAV MENU
@@ -101,10 +101,10 @@ $link-color:  #0275d8;
         "_includes/typography",
         "_includes/buttons-links",
         "_includes/elements",
-        "_includes/carousel",
-        "_includes/jumbotron",
         "_includes/list",
         "_includes/sidebar",
+        "_includes/section-jumbotron",
+        "_includes/section-carousel",
         "_includes/section-about",
         "_includes/section-services",
         "_includes/section-pricing",

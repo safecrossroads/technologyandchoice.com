@@ -29,6 +29,7 @@ Last updated: 25/April/2014
 * Bourbon 4.2.6
 * Bootstrap 3.3.6
 
+***NOTE:** No custom plugins are allowed on GitHub Pages auto generation: <https://help.github.com/articles/using-jekyll-plugins-with-github-pages/>
 
 ## Useful commands
 - Install Xcode Command Line Tool: $`xcode-select --install`

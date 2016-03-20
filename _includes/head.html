@@ -13,11 +13,11 @@
   <meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}" />
   <meta property="og:site_name" content="{{site.title}}" />
   <meta property="og:url" content="{{page.url | prepend: site.baseurl | prepend: site.url}}" />
+  <meta property="og:type" content="{{site.type}}" />
   <meta property="og:description" name="description" content="{% if page.excerpt %}{{page.excerpt | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
   <meta property="og:image" content="{{site.baseurl | prepend: site.url}}/assets/brand/thumbnail.png" />
   <meta name="twitter:card" content="summary"/>{% if site.FacebookAppID == empty %}{% else %}
   <meta property="fb:app_id" content="{{site.FacebookAppID}}" />{% endif %}
-  <meta name="keywords" content="">
 
   <!-- Icons -->
   <link rel="shortcut icon" href="{{site.baseurl | prepend: site.url}}/assets/brand/favicon.ico">

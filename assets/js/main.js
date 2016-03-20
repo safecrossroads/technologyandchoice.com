@@ -31,7 +31,7 @@ jQuery(document).ready(function() {
 
 // Navbar Affix
   $('.navbar-fixed-top').affix({ offset: {
-      top: 40,
+      top: 50,
       bottom: null
     }
   });
@@ -196,6 +196,53 @@ jQuery(document).ready(function() {
 
 // End
 });
+
+
+
+
+//////////////////////////////////////////////////////////////////
+// iPhone style Pull up menu                                    //
+//////////////////////////////////////////////////////////////////
+
+// Hide Header on on scroll down
+var didScroll;
+var lastScrollTop = 0;
+var delta = 5;
+var navbarHeight = $('.pull-up-menu').outerHeight();
+
+$(window).scroll(function(event){
+    didScroll = true;
+});
+
+setInterval(function() {
+    if (didScroll) {
+        hasScrolled();
+        didScroll = false;
+    }
+}, 200);
+
+function hasScrolled() {
+    var st = $(this).scrollTop();
+
+    // Make sure they scroll more than delta
+    if(Math.abs(lastScrollTop - st) <= delta)
+        return;
+
+    // If they scrolled down and are past the navbar, add class .nav-up.
+    // This is necessary so you never see what is "behind" the navbar.
+    if (st > lastScrollTop && st > navbarHeight){
+        // Scroll Down
+        $('.pull-up-menu').removeClass('scroll-up').addClass('scroll-down');
+    } else {
+        // Scroll Up
+        if(st + $(window).height() < $(document).height()) {
+            $('.pull-up-menu').removeClass('scroll-down').addClass('scroll-up');
+        }
+    }
+
+    lastScrollTop = st;
+}
+
 
 
 

@@ -17,6 +17,9 @@ Quisque lacinia gravida magna ac placerat. Curabitur varius leo vitae est rutrum
 Vitae posuere tellus odio vel nisl. Cras ornare eros aliquam enim placerat et commodo dui commodo. Duis quam dolor, ultrices vitae adipiscing id, pharetra porttitor lacus. Maecenas ac rutrum diam. Vivamus dapibus odio non orci convallis faucibus.
 
 
+![](/assets/brand/thumbnail.png)
+
+
 ### Vestibulum quis urna metus.
 
 Nullam venenatis diam egestas massa hendrerit aliquet. Donec vitae rutrum odio. Integer euismod, enim a dignissim rhoncus, orci lorem egestas turpis, non ultrices sem lacus vitae elit. Cras erat risus, accumsan vel ultrices venenatis, ultricies vitae lectus. Maecenas sollicitudin cursus erat, in dapibus turpis condimentum sit amet. Vivamus ac pretium erat. Duis ligula nunc, vehicula at consequat sed, sagittis ac massa. Vivamus eu faucibus nisi. Vestibulum tincidunt faucibus laoreet.

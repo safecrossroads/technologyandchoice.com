@@ -1,5 +1,5 @@
-/* Firefox img opacity jog fix */
-a img { -moz-transform:rotate(360deg); }
+/* Firefox img opacity jog fix - Image pixelation bug
+a img { -moz-transform:rotate(360deg); } */
 
 
 /* IE img flicker fix */
@@ -28,6 +28,7 @@ Caution: -webkit-backface-visibility: hidden; This causes iPad crash, Mac Safari
 .animation,
 .navbar-toggle {
   @include transform-style(preserve-3d);
+  @include transform(translateZ(0));
   }
 
 /* Fast  Fade Animation */
@@ -43,3 +44,32 @@ Caution: -webkit-backface-visibility: hidden; This causes iPad crash, Mac Safari
   }
 
 a:active i { text-decoration: none; }
+
+
+/* Safari Image blur fix */
+img {
+  filter: none;
+  -webkit-filter: blur(0px);
+  -moz-filter: blur(0px);
+  -ms-filter: blur(0px);
+  filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='0');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
