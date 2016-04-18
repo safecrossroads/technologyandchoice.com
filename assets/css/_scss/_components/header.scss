@@ -1,7 +1,6 @@
 body.fixed-nav { margin-top: 50px; }
 
 
-
 /* NNAVBAR
 -------------------------------------- */
 .navbar {
@@ -78,7 +77,6 @@ body.fixed-nav { margin-top: 50px; }
   .navbar-nav li.dropdown.open.active > .dropdown-toggle,
   .navbar-nav > li.dropdown > a:focus {
     background-color: inherit;
-    color: inherit;
     }
 
 
@@ -226,9 +224,9 @@ Change this when you use mouse hover. */
 
 
   /* Navbar position */
-  .navbar-fixed-top { position: absolute; } /* Fixed menu is not compatible with iOS5/6 */
   .navbar-default .navbar-nav { float: none !important; }
   .navbar-default .navbar-collapse { max-height: none; }
+  .navbar-default .container { width: 100%; }
 
 
   /* Menu */
@@ -415,13 +413,11 @@ Desktop ONLY. Use JS for both Desktop and Mobile devices. */
 /* NAVBAR Pull-up Menu
 -------------------------------------- */
 .pull-up-menu.navbar-fixed-top.scroll-down {
-  @include transform(translateY(-100px)); /* use translate to fix Safari image rendering bug */
+  @include transform(translate3d(0, -$navbar-height, 0)); /* use translate to fix Safari image rendering bug */
   }
   @media (max-width: $mobile-break-point) {
   .navbar-fixed-top.pull-up-menu {
     position: fixed;
     }
   }
-
-
 

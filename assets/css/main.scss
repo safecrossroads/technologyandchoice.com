@@ -5,26 +5,28 @@
 // Vendors
 @import
         "bourbon",
-        "vendor/bootstrap",
-        "vendor/genericons",
-        "vendor/animate",
-        "vendor/magnific-popup";
+        "_vendor/bootstrap",
+        "_vendor/genericons",
+        "_vendor/animate",
+        "_vendor/magnific-popup";
 
 
 // LAYOUT
 $container-width: 1140px;
+$jumbotron-padding: 40px 0;
 
 
 // FONT STYLE
-$base-font-family: "Open Sans", $helvetica;
+$base-font-family: $helvetica;
 $base-font-size:   16px;
 $base-line-height: 28px;
 $base-font-color: #333;
 
 
 // HEADER FONT STYLE
-$heading-font-family: "Open Sans", $helvetica;
+$heading-font-family: $helvetica;
 $heading-font-color: #000;
+$heading-font-weight: 600;
 $modular-scale-ratio: $perfect-fourth;
 $modular-scale-base: 1rem;
 
@@ -96,24 +98,25 @@ $link-color:  #0275d8;
 @import
         "base",
         "fontface",
-        "layout",
-        "_includes/header",
-        "_includes/typography",
-        "_includes/buttons-links",
-        "_includes/elements",
-        "_includes/list",
-        "_includes/sidebar",
-        "_includes/section-jumbotron",
-        "_includes/section-carousel",
-        "_includes/section-about",
-        "_includes/section-services",
-        "_includes/section-pricing",
-        "_includes/section-team",
-        "_includes/section-partners",
-        "_includes/section-contact",
-        "_includes/footer",
-        "_includes/fix",
+        "_components/typography",
+        "_components/layout",
+        "_components/header",
+        "_components/buttons-links",
+        "_components/media",
+        "_components/lists",
+        "_components/tables",
+        "_components/forms",
+        "_components/jumbotron",
+        "_components/carousel",
+        "_components/sidebar",
+        "_components/section-about",
+        "_components/section-services",
+        "_components/section-pricing",
+        "_components/section-team",
+        "_components/section-partners",
+        "_components/section-contact",
+        "_components/footer",
+        "fix",
+        "print",
         "custom";
-
-
 

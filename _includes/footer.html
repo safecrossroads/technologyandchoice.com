@@ -8,9 +8,9 @@
 
 
       <ul class="footer-nav list-inline">
-        <li><a href="{{site.baseurl}}/index.html">Home</a></li>
-        <li><a href="{{site.baseurl}}/index-carousel.html">Carousel</a></li>
-        <li><a href="{{site.baseurl}}/index-carousel-caption.html">Carousel Caption</a></li>
+        <li><a href="{{site.baseurl | prepend: site.url}}/index.html">Home</a></li>
+        <li><a href="{{site.baseurl | prepend: site.url}}/index-carousel.html">Carousel</a></li>
+        <li><a href="{{site.baseurl | prepend: site.url}}/index-carousel-caption.html">Carousel Caption</a></li>
         <li><a href="http://termsfeed.com/terms-conditions/generator/">Terms</a></li>
         <li><a href="https://www.freeprivacypolicy.com">Privacy</a></li>
         <li><a onmouseover="this.style.cursor='pointer'" data-toggle="popover" data-placement="top" title="The MIT License (MIT)" data-content="Copyright (c) {{site.copyrightYear}} {{site.designer}}">License</a></li><!-- Popover demo -->

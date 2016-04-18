@@ -1,0 +1,39 @@
+/* Normal Fade Animation */
+.animation,
+.back-top a {
+  @include transition (all 300ms ease);
+  }
+
+
+/* Fast  Fade Animation */
+.animation-fast,
+.navbar-fixed-top,
+.navbar-brand,
+.navbar-nav,
+.navbar-toggle,
+.navbar-toggle .icon-bar,
+.nav li a,
+.site-footer li a,
+.btn {
+  @include transition (all 220ms ease);
+  }
+
+
+/* Popover */
+.popover {
+  max-width: 90%;
+  border-radius: 0px;
+  }
+
+
+/* Tooltip */
+.tooltip {
+  font-size: 0.94rem;
+  line-height: 1.25rem;
+  }
+  .tooltip-inner { /* space inside tooltip */
+    max-width: 200px;
+    padding: 10px 14px;
+    border-radius: 0px;
+    }
+

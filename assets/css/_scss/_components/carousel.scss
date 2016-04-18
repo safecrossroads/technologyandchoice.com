@@ -10,6 +10,7 @@
 /* Carousel Control Custom */
 .carousel-control .control-icon {
   font-size: 48px;
+  font-weight: 800;
   height: 30px;
   margin-top: -15px;
   width: 30px;
@@ -21,12 +22,12 @@
   /* Prev */
   .carousel-control .prev {
     margin-left: -15px;
-    left: 50%;
+    left: 30%;
     }
   /* Next */
   .carousel-control .next {
     margin-right: -15px;
-    right: 50%;
+    right: 30%;
     }
 
 
@@ -120,6 +121,9 @@ a.carousel-control,
   left: 50%;
   @include transform(translate(-50%, -50%));
   }
+
+
+
 
 
 /* Font Style */
@@ -261,3 +265,22 @@ a.carousel-control,
     min-height: 360px;
     }
 }
+
+
+
+
+/* ------------------------------------------
+  CUSTOM STYLE: Caption box Left aligned
+------------------------------------------ */
+@media (min-width: 768px) {
+.carousel.text-left .carousel-caption {
+    text-align: left;
+    position: relative;
+    left: 0;
+    right: 0;
+    padding: 180px 15px 0;
+    max-width: 720px;
+    transform: translate(0);
+    }
+}
+

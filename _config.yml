@@ -10,8 +10,8 @@ gems:
 title:        "RFBP"
 slogan:       "Jekyll + Bootstrap"
 description:  "Redfrost Jekyll boilerplate"
-url:          "http://redfrost.com"                       # the base hostname (*Do not close with /)
-baseurl:      "/rfbp"                       # the subpath of your site, e.g. /blog (Use this for Github project page)
+url:          ""                       # the base hostname (*Do not close with /)
+baseurl:      ""                       # the subpath of your site, e.g. /blog (Use this for Github project page)
 language:     "en"
 type:         "website"                 #website | blog
 
@@ -32,7 +32,7 @@ copyright:     "Redfrost Design"        # Copyright holder
 copyrightYear: "2016"                   # Since
 designer:      "Redfrost"               # Designer / Developer name
 designerURL:   "http://redfrost.com/"   # Designer / Developer website
-version:       "v1.0"                   # Dev version
+version:       "v1.0.1"                   # Dev version
 FacebookAppID: ""                       # Facebook App ID
 
 
@@ -40,7 +40,7 @@ FacebookAppID: ""                       # Facebook App ID
 # Layout
 layout:        "responsive"              # static | responsive
 topNavbar:     "on"                     # on | off: top fixed nav
-logoType:      "image"                    # text | image
+logoType:      "image"                   # text | image
 gridClass:
   main:        "col-sm-8"
   sidebar:     "col-sm-4"
