@@ -27,8 +27,8 @@ Caution: -webkit-backface-visibility: hidden; This causes iPad crash, Mac Safari
 /* Normal Fade Animation */
 .animation,
 .navbar-toggle {
-  @include transform-style(preserve-3d); /* FF fix non transitive 3d from parent and child */
-  @include transform(translateZ(0)); /* Webkit Hardware Acceleration */
+    transform-style: preserve-3d; /* FF fix non transitive 3d from parent and child */
+    transform: translateZ(0); /* Webkit Hardware Acceleration */
   }
 
 /* Fast  Fade Animation */
@@ -39,8 +39,8 @@ Caution: -webkit-backface-visibility: hidden; This causes iPad crash, Mac Safari
 #footer li a,
 .maker a,
 .back-top a {
-  @include transform-style(preserve-3d); /* FF fix non transitive 3d from parent and child */
-  @include transform(translateZ(0)); /* Webkit Hardware Acceleration */
+    transform-style: preserve-3d; /* FF fix non transitive 3d from parent and child */
+    transform: translateZ(0); /* Webkit Hardware Acceleration */
   }
 
 a:active i { text-decoration: none; }

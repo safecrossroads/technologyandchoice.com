@@ -130,9 +130,8 @@ Change this when you use mouse hover. */
     }
   /* Caret Opened */
   .dropdown.open .caret {
-    @include transform(rotate(180deg))
-    }
-
+    transform: rotate(180deg);
+  }
 
 
 /* Dropdown header */
@@ -337,19 +336,19 @@ Change this when you use mouse hover. */
 
   /* Closed */
   .navbar-toggle.collapsed {
-    @include transform(rotate(0deg));
-      .top-bar    { @include transform(rotate(0)); }
+    transform: rotate(0deg);
+      .top-bar    { transform: rotate(0); }
       .middle-bar { opacity: 1; }
-      .bottom-bar { @include transform(rotate(0)); }
+      .bottom-bar { transform: rotate(0); }
       }
 
 
   /* Opened */
   .navbar-toggle {
-    @include transform(rotate(-90deg));
-      .top-bar    { @include transform(rotate(45deg));  @include transform-origin(4px 5px);  }
+    transform: rotate(-90deg);
+      .top-bar    { transform: rotate(45deg); transform-origin: 4px 5px; }
       .middle-bar { opacity: 0; }
-      .bottom-bar { @include transform(rotate(-45deg)); @include transform-origin(5px -2px); }
+      .bottom-bar { transform: rotate(-45deg); transform-origin: 5px -2px; }
       }
 
 
@@ -386,7 +385,7 @@ Desktop ONLY. Use JS for both Desktop and Mobile devices. */
       color: inherit;
       }
       .dropdown:hover .dropdown-menu { display: block; margin-top: 0; }
-      .dropdown.open .caret { @include transform(rotate(0deg))}
+      .dropdown.open .caret { transform: rotate(0deg) }
       .dropdown-toggle { pointer-events: none; }
   }
 }
@@ -413,11 +412,10 @@ Desktop ONLY. Use JS for both Desktop and Mobile devices. */
 /* NAVBAR Pull-up Menu
 -------------------------------------- */
 .pull-up-menu.navbar-fixed-top.scroll-down {
-  @include transform(translate3d(0, -$navbar-height, 0)); /* use translate to fix Safari image rendering bug */
+  transform: translate3d(0, -$navbar-height, 0); /* use translate to fix Safari image rendering bug */
   }
   @media (max-width: $mobile-break-point) {
   .navbar-fixed-top.pull-up-menu {
     position: fixed;
     }
   }
-

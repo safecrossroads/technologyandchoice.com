@@ -41,10 +41,8 @@
     }
 
 
-@media (min-width: 768px) {
-    .pricelist.bestseller {
-    @include transform(scale3d(1.15, 1.15, 1));
-    }
-}
-
-
+// @media (min-width: 768px) {
+//     .pricelist.bestseller {
+//     @include transform(scale3d(1.15, 1.15, 1));
+//     }
+// }

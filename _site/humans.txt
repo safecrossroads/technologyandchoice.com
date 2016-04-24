@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    Francis - Web Designer
+    Francis Brunelle - Web Developer
 
 # THANKS
 

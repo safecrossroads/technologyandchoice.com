@@ -4,7 +4,6 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Vendors
 @import
-        "bourbon",
         "_vendor/bootstrap",
         "_vendor/genericons",
         "_vendor/animate",
@@ -17,17 +16,17 @@ $jumbotron-padding: 40px 0;
 
 
 // FONT STYLE
-$base-font-family: $helvetica;
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-line-height: 28px;
 $base-font-color: #333;
 
 
 // HEADER FONT STYLE
-$heading-font-family: $helvetica;
+$heading-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $heading-font-color: #000;
 $heading-font-weight: 600;
-$modular-scale-ratio: $perfect-fourth;
+$modular-scale-ratio: 1.333;
 $modular-scale-base: 1rem;
 
 
@@ -119,4 +118,3 @@ $link-color:  #0275d8;
         "fix",
         "print",
         "custom";
-

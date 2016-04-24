@@ -1,7 +1,6 @@
 # CONFIG - Refresh terminal command after updating this file
 testMode:     "off"                  # on|off: Display testing helpers
 gems:
-  - bourbon
   - jekyll-paginate
 
 

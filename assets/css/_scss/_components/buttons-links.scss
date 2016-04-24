@@ -34,7 +34,7 @@ a,a:focus  { color: $link-color; }
 
 /* BTN STYLE 1: Gradient Button */
 .btn-gradient {
-  @include background-image(linear-gradient(rgba(255,255,255,0.25), transparent, rgba(0,0,0,0.13)));    /* Gradient global */
+  background-image: linear-gradient(rgba(255,255,255,0.25), transparent, rgba(0,0,0,0.13));    /* Gradient global */
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset, 0 1px 1px rgba(0, 0, 0, 0.075);                  /* Shadow */
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);                                                           /* Text-shadow */
   border-color: rgba(255, 255, 255, 0.3) rgba(0, 0, 0, 0.2) rgba(0, 0, 0, 0.5) !important;
@@ -83,4 +83,3 @@ a,a:focus  { color: $link-color; }
 
   .btn-ghost.btn-inverse { color: lighten($btn-inverse, 100% ); border-color: lighten($btn-inverse, 100% );
     &:hover { background: lighten($btn-inverse, 100% ) !important; color: darken($btn-inverse, 100% );} }
-
