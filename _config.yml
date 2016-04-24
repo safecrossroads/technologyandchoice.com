@@ -1,5 +1,5 @@
 # CONFIG - Refresh terminal command after updating this file
-testMode:     "on"                  # on|off: Display testing helpers
+testMode:     "off"                  # on|off: Display testing helpers
 gems:
   - bourbon
   - jekyll-paginate
@@ -7,8 +7,8 @@ gems:
 
 
 # Site settings
-title:        "RFBP"
-slogan:       "Jekyll + Bootstrap"
+title:        "Technology and Choice"
+slogan:       ""
 description:  "Redfrost Jekyll boilerplate"
 url:          ""                       # the base hostname (*Do not close with /)
 baseurl:      ""                       # the subpath of your site, e.g. /blog (Use this for Github project page)
@@ -28,10 +28,10 @@ sass:
 
 # Meta
 owner:         "Redfrost"               # Site owner
-copyright:     "Redfrost Design"        # Copyright holder
+copyright:     "Technology and Choice"        # Copyright holder
 copyrightYear: "2016"                   # Since
-designer:      "Redfrost"               # Designer / Developer name
-designerURL:   "http://redfrost.com/"   # Designer / Developer website
+designer:      "Francis Brunelle"               # Designer / Developer name
+designerURL:   "https://frabrunelle.com/"   # Designer / Developer website
 version:       "v1.0.1"                   # Dev version
 FacebookAppID: ""                       # Facebook App ID
 
@@ -61,10 +61,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Mr. Hyde"
+      author: "John Ferguson and Robert Worstell"
       tags:   "post"
 
-permalink:     post/:categories/:year/:month/:title/   #Post URL
+permalink:     :categories/:year/:month/:title/   #Post URL
 paginate_path: "/post/page:num/"
 paginate:      8
 
@@ -72,41 +72,21 @@ paginate:      8
 
 # User
 userInfo:
-  company:     "Opera house"
-  email:       "info@redfrost.com"
-  address:     "Bennelong Point Sydney NSW 2000 Australia"
-  pobox:       "Royal Exchange Sydney"
-  phone:       "(123) 456 7890"
-  mobile:      "123 456 7890"
-  fax:         "(123) 456 7891"
-  hours:       "Working hours: 9:00AM - 5:00PM (Monday to Friday)"
-  map:         "https://goo.gl/maps/2gBJJQnHTiM2"
-
-
+  email:       "simpleton@safecrossroads.net"
 
 # Links
 snsLink:
-  facebook:    "#"    # Facebook
-  twitter:     "#"    # Twitter
-  tumblr:      "#"    # Tumblr
-  googleplus:  "#"    # Google+
-  instagram:   "#"    # Instagram
-  youtube:     "#"    # Youtube
-  github:      "#"    # Github
-  linkedin:    "#"    # Linkedin
-
-
+  twitter:     "https://twitter.com/safecrossroads"    # Twitter
+  apple:       "https://itunes.apple.com/us/podcast/safe-crossroads-podcast/id997110283"    # iTunes
+  soundcloud:  "https://soundcloud.com/safecrossroads"    # SoundCloud
+  github:      "https://github.com/frabrunelle/technologyandchoice.com"    # Github
+  email:       "simpleton@safecrossroads.net"    # Email
 
 # Add-on
 formLink:      ""     # form Link
 formID:        ""     # form ID
 disqus:        ""     # Disqus ID
 trackingID:    ""     # Google analytics ID
-videoLink:     "http://player.vimeo.com/video/56860648" # Promo Video
-
-
 
 # Footer Note
-footerNote:    "<b>IMPORTANT:</b> All works of art within this web site are protected under copyright laws and international conventions. No portion of the artists works or statements may be used, downloaded, reproduced using any means, copied, linked to, or transferred electronically, without prior written permission from the artist."
-
-
+footerNote:    "Everything published on this site, except as otherwise attributed, is <a href='http://en.wikipedia.org/wiki/Copyleft'>copyleft</a>. See link for info on what that means."

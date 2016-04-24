@@ -9,34 +9,26 @@
 
       <ul class="footer-nav list-inline">
         <li><a href="{{site.baseurl | prepend: site.url}}/index.html">Home</a></li>
-        <li><a href="{{site.baseurl | prepend: site.url}}/index-carousel.html">Carousel</a></li>
-        <li><a href="{{site.baseurl | prepend: site.url}}/index-carousel-caption.html">Carousel Caption</a></li>
-        <li><a href="http://termsfeed.com/terms-conditions/generator/">Terms</a></li>
-        <li><a href="https://www.freeprivacypolicy.com">Privacy</a></li>
-        <li><a onmouseover="this.style.cursor='pointer'" data-toggle="popover" data-placement="top" title="The MIT License (MIT)" data-content="Copyright (c) {{site.copyrightYear}} {{site.designer}}">License</a></li><!-- Popover demo -->
-        <li><a onmouseover="this.style.cursor='pointer'" data-toggle="tooltip" data-placement="top" title="{{site.version}}">Version</a></li><!-- Tooltip demo -->
+        <li><a href="{{site.baseurl | prepend: site.url}}/beginner-toolkit/">Beginner Toolkit</a></li>
+        <li><a href="{{site.baseurl | prepend: site.url}}/tags/">Tags</a></li>
+        <li><a href="{{site.baseurl | prepend: site.url}}/about/">About</a></li>
+        <li><a href="{{site.baseurl | prepend: site.url}}/contact/">Contact</a></li>
         <li class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe</a></li>
       </ul>
 
 
       <!-- SNS Links -->
       <ul class="sns-icons list-inline">
-        {% if site.snsLink.facebook == empty %}{% else %}
-        <li><a class="sns-facebook" target="_blank" href="{{site.snsLink.facebook}}"><i class="genericon genericon-facebook"></i> <span>Facebook</span></a></li>{% endif %}
         {% if site.snsLink.twitter == empty %}{% else %}
         <li><a class="sns-twitter" target="_blank" href="{{site.snsLink.twitter}}"><i class="genericon genericon-twitter"></i> <span>Twitter</span></a></li>{% endif %}
-        {% if site.snsLink.tumblr == empty %}{% else %}
-        <li><a class="sns-tumblr" target="_blank" href="{{site.snsLink.tumblr}}"><i class="genericon genericon-tumblr"></i> <span>Tumblr</span></a></li>{% endif %}
-        {% if site.snsLink.googleplus == empty %}{% else %}
-        <li><a class="sns-google" target="_blank" href="{{site.snsLink.googleplus}}" rel="publisher"><i class="genericon genericon-googleplus"></i>  <span>Google+</span></a></li>{% endif %}
-        {% if site.snsLink.instagram == empty %}{% else %}
-        <li><a class="sns-instagram" target="_blank" href="{{site.snsLink.instagram}}"><i class="genericon genericon-instagram"></i> <span>Instagram</span></a></li>{% endif %}
-        {% if site.snsLink.youtube == empty %}{% else %}
-        <li><a class="sns-youtube" target="_blank" href="{{site.snsLink.youtube}}"><i class="genericon genericon-youtube"></i> <span>Media</span></a></li>{% endif %}
+        <!-- {% if site.snsLink.apple == empty %}{% else %}
+        <li><a class="sns-apple" target="_blank" href="{{site.snsLink.apple}}"><i class="genericon genericon-apple"></i> <span>Apple</span></a></li>{% endif %}
+        {% if site.snsLink.soundcloud == empty %}{% else %}
+        <li><a class="sns-soundcloud" target="_blank" href="{{site.snsLink.soundcloud}}" rel="publisher"><i class="genericon genericon-soundcloud"></i>  <span>SoundCloud</span></a></li>{% endif %} -->
         {% if site.snsLink.github == empty %}{% else %}
         <li><a class="sns-github" target="_blank" href="{{site.snsLink.github}}"><i class="genericon genericon-github"></i> <span>Github</span></a></li>{% endif %}
-        {% if site.snsLink.linkedin == empty %}{% else %}
-        <li><a class="sns-linkedin" target="_blank" href="{{site.snsLink.linkedin}}"><i class="genericon genericon-linkedin"></i> <span>Linkedin</span></a></li>{% endif %}
+        <!-- {% if site.snsLink.email == empty %}{% else %}
+        <li><a class="sns-email" target="_blank" href="{{site.snsLink.email}}"><i class="genericon genericon-email"></i> <span>Email</span></a></li>{% endif %} -->
       </ul>
 
 
@@ -46,10 +38,10 @@
     <div class="footer-note"><p class="legal">{{site.footerNote}}</p></div>
     {% endif %}
 
-    <div class="copyright">
-      &copy; {{site.copyrightYear}} {{site.copyright}}
-      <span class="maker">Designed &amp; developed by <a href="{{site.designerURL}}" target="_blank">{{site.designer}}</a></span>
-    </div>
+    <!-- <div class="copyright">
+      {{site.copyright}}
+      <span class="maker">Website developed by <a href="{{site.designerURL}}" target="_blank">{{site.designer}}</a></span>
+    </div> -->
     <div class="back-top">
       <a href="#top"><i class="genericon genericon-collapse"></i> <span>Back to top</span></a>
     </div>
