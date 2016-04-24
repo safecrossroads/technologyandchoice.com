@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: Episode 2 - Revenge of the Social Media Zombies
 excerpt: What's up with social media and what does it have to do with zombies? You'll just have to listen.
 thumbnail: assets/img/revenge-of-the-social-media-zombies.jpg

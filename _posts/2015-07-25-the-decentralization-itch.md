@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: The Decentralization Itch
 excerpt:
 thumbnail: assets/img/decentralization-itch.jpg

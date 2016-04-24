@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: Episode 1 - Virtual Reality
 excerpt: Welcome to the first episode of Technology and Choice, the podcast where we're likely to talk about almost anything, as long as it centers around these two concepts.
 thumbnail: assets/img/virtual-reality.jpg
