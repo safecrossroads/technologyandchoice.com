@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beginner Toolkit
+title: Resources
 excerpt: Standard 2 Col Page Template.
 permalink:
 thumbnail: assets/img/banner-01.jpg
