@@ -7,8 +7,8 @@ gems:
 
 # Site settings
 title:        "Technology and Choice"
-slogan:       ""
-description:  "Redfrost Jekyll boilerplate"
+slogan:       "Bulding from the First Principle"
+description:  "Building from the first principle, choice. We hope you will join us in the adventure."
 url:          ""                       # the base hostname (*Do not close with /)
 baseurl:      ""                       # the subpath of your site, e.g. /blog (Use this for Github project page)
 language:     "en"

@@ -3,7 +3,7 @@ layout: page
 title: About
 excerpt: Standard 2 Col Page Template.
 permalink:
-thumbnail: assets/img/banner-01.jpg
+thumbnail: assets/img/banner.jpg
 bodyclass:
 ---
 

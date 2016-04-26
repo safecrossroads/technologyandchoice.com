@@ -2,7 +2,7 @@
 layout: post
 title: Episode 4 - A Talk With Paul Rosenburg
 excerpt: John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.  
-thumbnail: assets/img/paul-rosenburg.png
+thumbnail: assets/img/a-talk-with-paul-rosenburg.png
 tags: podcast
 featured:
 ---
@@ -14,13 +14,15 @@ featured:
 
 John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.  
 
+
 #### Magic Word
 
 Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's  listener award distribution of LTBcoin. Listeners now have a full week from the release date to submit a magic word. The magic word for this episode must be submitted by 8 am Pacific Time on May 3, 2016.
 
+
 #### Music
 
-Music for this episode: *SafeProject,* an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
+Music for this episode: *SafeProject*, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
 
 
 #### Links
