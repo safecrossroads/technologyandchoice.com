@@ -27,10 +27,6 @@ Music for this episode: *SafeProject*, an original piece composed and performed 
 
 #### Links
 
-[Freeman's Perspective](http://www.freemansperspective.com/)
-
-[Review of The Breaking Dawn](http://www.freemansperspective.com/the-breaking-dawn-a-book-review-by-jim-davidson/)
-
-[Cryptohippie privacy service](https://secure.cryptohippie.com/)
-
-[Technology and Choice website](http://technologyandchoice.com)
+* [Freeman's Perspective](http://www.freemansperspective.com/)
+* [Review of The Breaking Dawn](http://www.freemansperspective.com/the-breaking-dawn-a-book-review-by-jim-davidson/)
+* [Cryptohippie privacy service](https://secure.cryptohippie.com/)

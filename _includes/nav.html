@@ -15,7 +15,7 @@
 
         <!-- Logo -->
         <div class="logo-box">{% if site.logoType == 'image' %}
-          <a class="navbar-brand site-title logo-image" href="{{site.baseurl | prepend: site.url}}/">
+          <a class="navbar-brand site-title logo-image" href="{{ '/' | prepend: site.baseurl }}">
             <img alt="{{site.title}}" src="{{site.baseurl | prepend: site.url}}/assets/brand/logo.png" width="{{site.logoWidth}}">
           </a>{% else %}
 
@@ -31,11 +31,12 @@
       <!-- Navigation -->
       <nav id="navbar-collapse" class="navbar-collapse collapse" role="navigation">
         <ul class="nav navbar-nav mouseover">
-          <li><a href="{{site.baseurl | prepend: site.url}}/">Home</a></li>
-          <li><a href="{{site.baseurl | prepend: site.url}}/resources/">Resources</a></li>
-          <li><a href="{{site.baseurl | prepend: site.url}}/tags/">Tags</a></li>
-          <li><a href="{{site.baseurl | prepend: site.url}}/about/">About</a></li>
-          <li><a href="{{site.baseurl | prepend: site.url}}/contact/">Contact</a></li>
+          <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+          <li><a href="{{ '/tags/' | prepend: site.baseurl }}">Tags</a></li>
+          <li><a href="{{ '/resources/' | prepend: site.baseurl }}">Resources</a></li>
+          <li><a href="{{ '/about/' | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ '/contact/' | prepend: site.baseurl }}">Contact</a></li>
+          <li><a href="{{ '/feed.xml' | prepend: site.baseurl }}">RSS Feed</a></li>
         </ul>
       </nav><!--/.nav-collapse -->
 
