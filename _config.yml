@@ -1,9 +1,5 @@
 # CONFIG - Refresh terminal command after updating this file
 testMode:     "off"                  # on|off: Display testing helpers
-gems:
-  - jekyll-paginate
-
-
 
 # Site settings
 title:        "Technology and Choice"
@@ -14,16 +10,12 @@ baseurl:      ""                                # the subpath of your site, e.g.
 language:     "en"
 type:         "website"                         #website | blog
 
-
-
 # Build settings
 markdown:      kramdown
 sass:
   sass_dir:    assets/css/_scss         # default sass_dir
   syntax:      scss                     # scss | sass
   style:       compressed               # nested | expanded | compact | compressed
-
-
 
 # Meta
 owner:         "John Ferguson"               # Site owner
@@ -34,8 +26,6 @@ designerURL:   "https://frabrunelle.com/"   # Designer / Developer website
 version:       "v1.0.1"                   # Dev version
 FacebookAppID: ""                       # Facebook App ID
 
-
-
 # Layout
 layout:        "responsive"              # static | responsive
 topNavbar:     "on"                     # on | off: top fixed nav
@@ -44,14 +34,10 @@ gridClass:
   main:        "col-sm-8"
   sidebar:     "col-sm-4"
 
-
-
 # Collection
 collections:
   docs:
     output: true
-
-
 
 # Posting Default
 defaults:
@@ -66,8 +52,6 @@ defaults:
 permalink:     :categories/:year/:month/:title/   #Post URL
 paginate_path: "/post/page:num/"
 paginate:      8
-
-
 
 # User
 userInfo:
