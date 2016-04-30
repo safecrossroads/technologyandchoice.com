@@ -6,7 +6,7 @@
   text-shadow: 0 3px 3px rgba(0,0,0,0.5);
   margin-bottom: 40px;
 
-  h1, h2, h3, h4, h5, h6, p, a {
+  h1, h2, h3, h4, h5, h6, p {
     color: #fff;
     }
 
@@ -30,9 +30,9 @@
   .front-page .jumbotron {
     padding: 100px 0;
     }
-  .front-page .jumbotron-text {
-    max-width: 880px;
-    }
+  // .front-page .jumbotron-text {
+  //   max-width: 880px;
+  //   }
 }
 
 

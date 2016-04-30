@@ -19,33 +19,33 @@ h1, h2, h3, h4, h5, h6 {
 h1,h1 a,
 .jumbotron .h1,
 .jumbotron h1 {
-  font-size: modular-scale(4);
+  font-size: 3.063rem;
   letter-spacing: -2px;
   }
 
 
 h2,h2 a, .post-title {
-  font-size: modular-scale(3);
+  font-size: 2.36859rem;
   letter-spacing: -1px;
   margin: ($base-line-height / $base-font-size)*1rem 0;
   }
 
 
 h3,h3 a {
-  font-size: modular-scale(2);
+  font-size: 1.77689rem;
   margin: ($base-line-height / $base-font-size)*1rem 0 ($base-line-height / $base-font-size)*0.5rem;
   }
 
 h4,h4 a {
-  font-size: modular-scale(1);
+  font-size: 1.333rem;
   margin-top: ($base-line-height / $base-font-size)*1rem;
 }
 
-h5,h5 a { font-size: modular-scale(0) }
+h5,h5 a { font-size: 1rem }
 
-h6,h6 a { font-size: modular-scale(-1); }
+h6,h6 a { font-size: .75019rem; }
 
-.lead { font-size: modular-scale(1); }
+.lead { font-size: 1.333rem; }
 
 .byline {
   font-size: 1.25rem;
@@ -62,9 +62,9 @@ p {
 
 /* Mobile */
 @media (max-width: 640px) {
-  h1,h1 a,.jumbotron .h1,.jumbotron h1 { font-size: modular-scale(3); }
-  h2,h2 a, .post-title { font-size: modular-scale(2); }
-  h3,h3 a { font-size: modular-scale(1); }
-  h4,h4 a { font-size: modular-scale(0); }
+  h1,h1 a,.jumbotron .h1,.jumbotron h1 { font-size: 2.36859rem; }
+  h2,h2 a, .post-title { font-size: 1.77689rem; }
+  h3,h3 a { font-size: 1.333rem; }
+  h4,h4 a { font-size: 1rem; }
   /* End */
 }

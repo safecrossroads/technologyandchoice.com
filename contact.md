@@ -3,7 +3,7 @@ layout: full-width
 title:  Contact
 excerpt: John Ferguson and Robert Worstell
 permalink: /contact/
-thumbnail: assets/img/banner.jpg
+thumbnail:
 bodyclass:
 ---
 

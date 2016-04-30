@@ -2,22 +2,16 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <!--
-  |~)[~|~\|~|~)/~\(~~|~
-  |~\[_|_/|~|~\\_/_) |
-  When you look into an abyss, the abyss also looks into you.
-  -->
-
   <!-- Site info -->
   <title>{% if page.title %}{{page.title}} &middot; {% endif %}{{site.title}}</title>
-  <meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}" />
-  <meta property="og:site_name" content="{{site.title}}" />
-  <meta property="og:url" content="{{page.url | prepend: site.baseurl | prepend: site.url}}" />
-  <meta property="og:type" content="{{site.type}}" />
+  <meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}">
+  <meta property="og:site_name" content="{{site.title}}">
+  <meta property="og:url" content="{{page.url | prepend: site.baseurl | prepend: site.url}}">
+  <meta property="og:type" content="{{site.type}}">
   <meta property="og:description" name="description" content="{% if page.excerpt %}{{page.excerpt | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
-  <meta property="og:image" content="{{site.baseurl | prepend: site.url}}/assets/brand/thumbnail.png" />
-  <meta name="twitter:card" content="summary"/>{% if site.FacebookAppID == empty %}{% else %}
-  <meta property="fb:app_id" content="{{site.FacebookAppID}}" />{% endif %}
+  <meta property="og:image" content="{{site.baseurl | prepend: site.url}}/assets/brand/thumbnail.jpg">
+  <meta name="twitter:card" content="summary">{% if site.FacebookAppID == empty %}{% else %}
+  <meta property="fb:app_id" content="{{site.FacebookAppID}}">{% endif %}
 
   <!-- Icons -->
   <link rel="shortcut icon" href="{{site.baseurl | prepend: site.url}}/assets/brand/favicon.ico">
@@ -29,11 +23,11 @@
   <meta name="dcterms.rightsHolder" content="(c) {{site.copyright}}">
 
   <!-- Style -->
-  <link rel="stylesheet" href="{{site.baseurl | prepend: site.url}}/assets/css/main.css?v{{site.time | date: '%s'}}">{% if site.layout == 'responsive' %}
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css?v{{site.time | date: '%s'}}">{% if site.layout == 'responsive' %}
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">{% endif %}
   {% if site.testMode == 'on' %}<!-- Test mode -->
-  <link rel="stylesheet" href="{{site.baseurl | prepend: site.url}}/assets/css/style-test.css?v{{site.time | date: '%s'}}">
-  <script src="{{site.url}}/assets/js/vendor/modernizr-3.2.0.min.js"></script>
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style-test.css?v{{site.time | date: '%s'}}">
+  <script src="{{site.baseurl}}/assets/js/vendor/modernizr-3.2.0.min.js"></script>
   <meta name="robots" content="noindex, nofollow">{% endif %}
 
   <link rel="canonical" href="{{page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}">

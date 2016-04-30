@@ -18,7 +18,7 @@ sass:
   style:       compressed               # nested | expanded | compact | compressed
 
 # Meta
-owner:         "John Ferguson"               # Site owner
+owner:         "John Ferguson and Robert Worstell"               # Site owner
 copyright:     "Technology and Choice"        # Copyright holder
 copyrightYear: "2016"                   # Since
 designer:      "Francis Brunelle"               # Designer / Developer name

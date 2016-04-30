@@ -6,9 +6,9 @@
       {% assign previous="" %}
 
       {% if num_parts == "0" or num_parts == "-1" %}
-      <li><a href="{{site.url}}">Home</a></li>
+      <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
       {% else %}
-      <li><a href="{{site.url}}">Home</a></li>
+      <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
 
         {% for unused in page.content limit:num_parts %}
           {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
