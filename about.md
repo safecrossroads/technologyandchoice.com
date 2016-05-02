@@ -47,8 +47,6 @@ There may be affiliate links on this site, which allow us to financial opportuni
 
 #### <small>License to use website</small>
 
-<small>Unless otherwise stated, Technology and Choice and/or its licensors own the intellectual property rights published on this website and materials used on technologyandchoice.com. Subject to the license below, all these intellectual property rights are reserved.</small>
-
 <small>All original materials presented here are copyleft and may be used at one’s discretion, and the site owners only ask attribution where appropriate, and that the materials not be used to misrepresent the publishers’ position or stance.</small>
 
 #### <small>Acceptable use</small>
