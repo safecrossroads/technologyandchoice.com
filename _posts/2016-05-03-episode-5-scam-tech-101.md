@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 5 - Scam Tech 101
-excerpt: Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice? 
+excerpt: Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice?
 
 thumbnail: assets/img/scam+logo.png
 tags: podcast
@@ -12,7 +12,7 @@ featured:
 
 #### In this Episode
 
-Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice? 
+Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice?
 
 We dig in on a scam that Robert himself got snared by, and what he did about it. The image of throwing a ragdoll to a puppy is invoked. Listen to see how it came out.
 
@@ -27,10 +27,6 @@ Music for this episode: *SafeProject,* an original piece composed and performed 
 
 #### Links
 
-[Free -- Robert's book, Get Yourself Scam Free](http://livesensical.com/scamfree//) (This page includes links to all the material discussed in this episode.)
-
-[Anatomy of a Scam -- Planet Money podcast](http://www.npr.org/sections/money/2016/01/29/464859624/episode-680-anatomy-of-a-scam)
-
-[Technology and Choice website](http://technologyandchoice.com)
-
-[CryptoGoss podcast](https://soundcloud.com/cryptogoss)
+* [Free -- Robert's book, Get Yourself Scam Free](http://livesensical.com/scamfree//) (This page includes links to all the material discussed in this episode.)
+* [Anatomy of a Scam -- Planet Money podcast](http://www.npr.org/sections/money/2016/01/29/464859624/episode-680-anatomy-of-a-scam)
+* [CryptoGoss podcast](https://soundcloud.com/cryptogoss)
