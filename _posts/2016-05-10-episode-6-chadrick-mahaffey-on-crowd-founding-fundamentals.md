@@ -18,9 +18,11 @@ In this interview, we go into the background of how he arrived at what he now ca
 
 Could change a lot of the way we think about how we "have to" do things.
 
+
 #### Magic Word
 
 Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's  listener award distribution of LTBcoin. Listeners now have a full week from the release date to submit a magic word. The magic word for this episode must be submitted by 12 pm Pacific Time on May 17, 2016.
+
 
 #### Music
 
@@ -29,12 +31,7 @@ Music for this episode: *SafeProject* and *Magic Words,* original pieces compose
 
 #### Links
 
-[Crowd Found Hub (In Detail)](https://forum.safenetwork.io/t/crowd-found-hub-in-detail/9064)
-
-[*Extreme Programming Explained*](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416/ref=sr_1_2?ie=UTF8&qid=1462849265&sr=8-2&keywords=extreme+programming+explained) by Kent Beck
-
-[*Maverick*](http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553/ref=sr_1_1?ie=UTF8&qid=1462849425&sr=8-1&keywords=ricardo+semler) (1995) and [*The Seven Day Weekend*](https://www.amazon.com/Seven-Day-Weekend-Changing-Work-Works-ebook/dp/B000PDYVXE?ie=UTF8&keywords=ricardo%20semler&qid=1462849425&ref_=sr_1_2&sr=8-2) (2004) by Ricardo Semler
-
-[Technology and Choice website](http://technologyandchoice.com)
-
-[SAFE Crossroads podcast](http://safecrossroads.net)
+* [Crowd Found Hub (In Detail)](https://forum.safenetwork.io/t/crowd-found-hub-in-detail/9064)
+* [*Extreme Programming Explained*](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416/ref=sr_1_2?ie=UTF8&qid=1462849265&sr=8-2&keywords=extreme+programming+explained) by Kent Beck
+* [*Maverick*](http://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553/ref=sr_1_1?ie=UTF8&qid=1462849425&sr=8-1&keywords=ricardo+semler) (1995) and [*The Seven Day Weekend*](https://www.amazon.com/Seven-Day-Weekend-Changing-Work-Works-ebook/dp/B000PDYVXE?ie=UTF8&keywords=ricardo%20semler&qid=1462849425&ref_=sr_1_2&sr=8-2) (2004) by Ricardo Semler
+* [SAFE Crossroads podcast](http://safecrossroads.net)
