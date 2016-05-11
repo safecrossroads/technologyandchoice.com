@@ -26,6 +26,8 @@ He is an avid consumer of data from a large number of social, political, philoso
 
 Robert has been writing and publishing books for over a decade from his working farm in rural northwest Missouri. With degrees in computer networking, and user-interface development, as well as advanced degrees in metaphysics and comparative religions, his width of understanding makes for interesting podcast conversations. Over-prolific, he maintains numerous blogs as well as a healthy publishing schedule. You can contact him via [LiveSensical.com](http://livesensical.com/) or [Midwest Journal Press Bookstore](http://midwestjournalpress.com/bookstore/).
 
+***
+
 ### <small>Disclaimer for Technology and Choice</small>
 
 <small>All the information on this website is published in good faith and for general information purpose only. technologyandchoice.com does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (technologyandchoice.com), is strictly at your own risk. technologyandchoice.com will not be liable for any losses and/or damages in connection with the use of our website.
