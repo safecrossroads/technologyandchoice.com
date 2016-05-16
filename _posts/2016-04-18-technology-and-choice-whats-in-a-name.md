@@ -38,7 +38,6 @@ We could still be very hard-nosed and say, “You choose, so no excuses! Fess up
 
 So let’s examine *choice* and *choices* a bit deeper, on a bit more practical, everyday-experience level and see if it sheds some light.
 
-
 ### Types and Facets of Choice
 
 [The Decentralization Itch](http://www.safecrossroads.net/articles/the-decentralization-itch-3/) is an article I published last year on safecrossroads.net and the Let’s Talk Bitcoin network. In it I show pretty irrefutably how choice is something that only Self can do, because that’s where you look to find free will, volition, etc. While that logic is rock solid, I think, the patterns and packages of choices, and the complexities of life can make the truth of that logic hard to track and thus easy to doubt.  
@@ -74,9 +73,7 @@ At an early age, I showed that I wasn’t too prone to conform to social proof. 
 
 ---
 
-
 I’m sure we could lay out plenty of other flavors of choice which have interesting aspects and twists, but that gives us enough to get the idea.
-
 
 ### Technology and the Everything Else
 

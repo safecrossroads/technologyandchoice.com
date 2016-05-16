@@ -9,16 +9,13 @@ featured:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256950129&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-
 #### In this Episode
 
 What's up with social media and what does it have to do with zombies? You'll just have to listen.
 
-
 #### Music
 
 Music for this episode: *SafeProject*, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
-
 
 #### Links
 

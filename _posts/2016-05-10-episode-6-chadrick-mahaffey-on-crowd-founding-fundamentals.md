@@ -9,7 +9,6 @@ featured:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/263366995&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-
 #### In this Episode
 
 Chadrick Mahaffey is a software developer and fan of the SAFE Network. For years he's been working to understand organization principles so as to evolve a way that people can "Labor in Freedom."
@@ -18,16 +17,13 @@ In this interview, we go into the background of how he arrived at what he now ca
 
 Could change a lot of the way we think about how we "have to" do things.
 
-
 #### Magic Word
 
 Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's  listener award distribution of LTBcoin. Listeners now have a full week from the release date to submit a magic word. The magic word for this episode must be submitted by 12 pm Pacific Time on May 17, 2016.
 
-
 #### Music
 
 Music for this episode: *SafeProject* and *Magic Words,* original pieces composed and performed by Nicholas Koteskey of Two Faced Heroes
-
 
 #### Links
 

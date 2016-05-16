@@ -24,42 +24,27 @@ Music for this episode: *SafeProject* and *Magic Words,* original pieces compose
 
 #### Links
 
-[William Walker Atkinson - Thought Vibration --free print edition](https://archive.org/stream/ThoughtVibrationOrTheLawOfAttractionInTheThoughtWorld/Thought_Vibration__Or__The_Law_of_Attrac#page/n1/mode/2up)
+* [William Walker Atkinson - Thought Vibration -- free print edition](https://archive.org/stream/ThoughtVibrationOrTheLawOfAttractionInTheThoughtWorld/Thought_Vibration__Or__The_Law_of_Attrac#page/n1/mode/2up)
+* [William Walker Atkinson - Thought Vibration -- paid print editions](http://calm.li/thoughtvibration)
+* [William Walker Atkinson - Thought Vibration -- Audiobook edition](https://archive.org/details/thought_vibration_ap_librivox)
 
-[William Walker Atkinson - Thought Vibration -- paid print editions](http://calm.li/thoughtvibration)
+##### Genetic options
 
-[William Walker Atkinson - Thought Vibration --Audiobook edition](https://archive.org/details/thought_vibration_ap_librivox)
+* [DNA to regrow limbs](http://www.bbc.com/future/story/20130307-will-we-ever-regenerate-limbs)
+* [Growing new teeth](http://www.usnews.com/news/articles/2013/05/13/alligators-can-grow-new-teeth-so-why-not-humans)
+* [50% of Scientific findings are wrong -- 1](https://www.newscientist.com/article/dn7915-most-scientific-papers-are-probably-wrong)
+* [50% of Scientific findings are wrong -- 2](https://www.theguardian.com/science/occams-corner/2013/sep/17/scientific-studies-wrong)
+* [Being led by the nose - nose rings](https://en.wikipedia.org/wiki/Nose_ring_(animal))
+* [James Allen - Byways of Blessedness](http://j.mp/pax_james-allen)
+* [Scam Free book](http://livesensical.com/scamfree)
+* [There is no crying in baseball](https://www.youtube.com/watch?v=6M8szlSa-8o)
+* [Lottery winnings statistics -- 1](http://www.statisticbrain.com/lottery-winner-statistics/)
+* [Lottery winnings statistics -- 2](http://brandongaille.com/22-lottery-winners-bankrupt-statistics/)
+* [Pay What You Want](https://en.wikipedia.org/wiki/Pay_what_you_want)
+* [“I’m from Missouri and you’ll just have show me.”](https://en.wikipedia.org/wiki/Willard_Duncan_Vandiver)
 
-*Genetic options -*
+##### Sources of Releasing info
 
-[DNA to regrow limbs](http://www.bbc.com/future/story/20130307-will-we-ever-regenerate-limbs)
-
-[Growing new teeth](http://www.usnews.com/news/articles/2013/05/13/alligators-can-grow-new-teeth-so-why-not-humans)
-
-[50% of Scientific findings are wrong -- 1](https://www.newscientist.com/article/dn7915-most-scientific-papers-are-probably-wrong)
-
-[50% of Scientific findings are wrong -- 2](https://www.theguardian.com/science/occams-corner/2013/sep/17/scientific-studies-wrong)
-
-[Being led by the nose - nose rings](https://en.wikipedia.org/wiki/Nose_ring_(animal))
-
-[James Allen - Byways of Blessedness](http://j.mp/pax_james-allen)
-
-[Scam Free book](http://livesensical.com/scamfree)
-
-[There is no crying in baseball](https://www.youtube.com/watch?v=6M8szlSa-8o)
-
-[Lottery winnings statistics -- 1](http://www.statisticbrain.com/lottery-winner-statistics/)
-
-[Lottery winnings statistics -- 2](http://brandongaille.com/22-lottery-winners-bankrupt-statistics/)
-
-[Pay What You Want](https://en.wikipedia.org/wiki/Pay_what_you_want)
-
-[“I’m from Missouri and you’ll just have show me.”](https://en.wikipedia.org/wiki/Willard_Duncan_Vandiver)
-
-**Sources of Releasing info**
-
-[KISS Releasing](http://lesterandme.com/)
-
-[Sedona Method](http://www.sedona.com/Home.asp)
-
-[ReleaseTechnique.com](http://www.releasetechnique.com/)
+* [KISS Releasing](http://lesterandme.com/)
+* [Sedona Method](http://www.sedona.com/Home.asp)
+* [ReleaseTechnique.com](http://www.releasetechnique.com/)
