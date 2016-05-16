@@ -9,6 +9,7 @@ url:          "https://technologyandchoice.com" # the base hostname (*Do not clo
 baseurl:      ""                                # the subpath of your site, e.g. /blog (Use this for Github project page)
 language:     "en"
 type:         "website"                         #website | blog
+timezone:     "America/Los_Angeles"
 
 # Build settings
 markdown:      kramdown

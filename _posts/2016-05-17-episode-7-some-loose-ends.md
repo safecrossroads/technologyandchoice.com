@@ -30,7 +30,7 @@ Music for this episode: *SafeProject* and *Magic Words,* original pieces compose
 
 [William Walker Atkinson - Thought Vibration --Audiobook edition](https://archive.org/details/thought_vibration_ap_librivox)
 
-*Genetic options -* 
+*Genetic options -*
 
 [DNA to regrow limbs](http://www.bbc.com/future/story/20130307-will-we-ever-regenerate-limbs)
 
@@ -40,11 +40,11 @@ Music for this episode: *SafeProject* and *Magic Words,* original pieces compose
 
 [50% of Scientific findings are wrong -- 2](https://www.theguardian.com/science/occams-corner/2013/sep/17/scientific-studies-wrong)
 
-[Being led by the nose - nose rings](https://en.wikipedia.org/wiki/Nose_ring_(animal)) 
+[Being led by the nose - nose rings](https://en.wikipedia.org/wiki/Nose_ring_(animal))
 
 [James Allen - Byways of Blessedness](http://j.mp/pax_james-allen)
 
-[Scam Free book](http://livesensical.com/scamfree) 
+[Scam Free book](http://livesensical.com/scamfree)
 
 [There is no crying in baseball](https://www.youtube.com/watch?v=6M8szlSa-8o)
 
