@@ -7,7 +7,6 @@ author: John Ferguson
 tags: article
 featured: true
 ---
-##The Choice Eaters
 
 BEWARE THE CHOICE EATERS!
 
