@@ -16,7 +16,7 @@ Politicians and other shysters take up and use the Choice that others have aband
 
 You abandon your Choice without a thought, because you’ve been trained to do so. From childhood. I’d have to say on purpose. By those who consider that they own your Choice, and by their unwitting followers. Now you think that you’re blind and have to be lead, “whether you agree or not.” But I propose that it’s really just a matter of opening your eyes. 
 
-####It’s Yours
+###It’s Yours
 
 Own your Choice. You can do it if you choose. You don’t have to, but you can. It IS your choice. Take it back.
 
@@ -26,7 +26,7 @@ Do you choose to obey because you’re afraid? That’s okay. Just know that tha
 
 Do you chose to follow along because you think others know better than you? Fair enough. Admit that you’re uncertain, but that you are choosing to follow. That is just the truth of it. However, consider this: Are they leading where you want to go? Do they really even know where they’re going and why? Or are they just following others who are following yet others, who also don’t know where or why, except of course for the stories they’ve made up to try and make silly things seem reasonable? If you find that you’re doing that, too, fine. Keep doing it if you like. Just realize that Choice is yours, always.
 
-####Choice Awareness Day
+###Choice Awareness Day
 
 For the sane and able, every day is Choice Awareness Day.
 
