@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Porcfest Potpourri
+title: Episode 7 - Porcfest Potpourri
 excerpt: A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair.
 thumbnail: assets/img/tc08-image.png
 author: John Ferguson
