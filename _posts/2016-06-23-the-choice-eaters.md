@@ -24,7 +24,7 @@ It’s easy. You don’t even have to do anything different as far as others can
 
 Do you choose to obey because you’re afraid? That’s okay. Just know that that’s what justifies those choices you make. *It really is okay,* as long as you honor the fact that you *are* choosing.
 
-Do you chose to follow along because you think others know better than you? Fair enough. Admit that you’re uncertain, but that you are choosing to follow. That is just the truth of it. However, consider this: Are they leading where you want to go? Do they really even know where they’re going and why? Or are they just following others who are following yet others, who also don’t know where or why, except of course for the stories they’ve made up to try and make silly things seem reasonable? If you find that you’re doing that, too, fine. Keep doing it if you like. Just realize that Choice is yours, always.
+Do you choose to follow along because you think others know better than you? Fair enough. Admit that you’re uncertain, but that you are choosing to follow. That is just the truth of it. However, consider this: Are they leading where you want to go? Do they really even know where they’re going and why? Or are they just following others who are following yet others, who also don’t know where or why, except of course for the stories they’ve made up to try and make silly things seem reasonable? If you find that you’re doing that, too, fine. Keep doing it if you like. Just realize that Choice is yours, always.
 
 #### Choice Awareness Day
 
