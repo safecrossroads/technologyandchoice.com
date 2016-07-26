@@ -24,9 +24,6 @@ Music for this episode: *SafeProject* an original piece composed and performed b
 
 #### Links
 
-[Freedom's Phoenix](http://www.freedomsphoenix.com/)
-
-[Liberty Cafe](http://libertycafe.us)
-
-[The Choice Eaters](https://technologyandchoice.com/2016/06/the-choice-eaters/)
-
+* [Freedom's Phoenix](http://www.freedomsphoenix.com/)
+* [Liberty Cafe](http://libertycafe.us)
+* [The Choice Eaters](https://technologyandchoice.com/2016/06/the-choice-eaters/)

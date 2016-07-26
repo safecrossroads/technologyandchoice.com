@@ -30,18 +30,11 @@ Music for this episode: *SafeProject* an original piece composed and performed b
 
 #### Links
 
-[The Free State Project](https://freestateproject.org/)
-
-[Porcfest](http://porcfest.com)
-
-[Open Bazaar](https://openbazaar.org/)
-
-[All things Larken Rose](http://larkenrose.com)
-
-[Larken's YouTube channel](https://www.youtube.com/user/LarkenRose)
-
-[The Mirror -- trailer](https://www.youtube.com/watch?v=hJUZlwAFVQo)
-
-[LBRY.io](https://lbry.io/)
-
-[LBRY Slack channel](https://slack.lbry.io)
+* [The Free State Project](https://freestateproject.org/)
+* [Porcfest](http://porcfest.com)
+* [Open Bazaar](https://openbazaar.org/)
+* [All things Larken Rose](http://larkenrose.com)
+* [Larken's YouTube channel](https://www.youtube.com/user/LarkenRose)
+* [The Mirror -- trailer](https://www.youtube.com/watch?v=hJUZlwAFVQo)
+* [LBRY.io](https://lbry.io/)
+* [LBRY Slack channel](https://slack.lbry.io)
