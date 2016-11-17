@@ -2,7 +2,7 @@
 layout: post
 title: Episode 10 - Value Choice
 excerpt: While visiting my friend and associate, Travis Remington, in his home in Utah, we recorded this conversation to give some background on where we are going with our specific business idea, but more broadly,
-thumbnail: assets/img/Hank + logo.png
+thumbnail: assets/img/Hank+logo.png
 author: John Ferguson
 tags: podcast
 featured: true
