@@ -25,8 +25,12 @@ Music for this episode: *SafeProject* an original piece composed and performed b
 #### Links
 
 *[BitShares.org](https://bitshares.org/)
+
 *[OpenLedger decentralized exchange](https://bitshares.openledger.info/#/)
+
 *[BlockPay point of sale app and services](https://blockpay.ch/)
+
 *[Dash](https://www.dash.org/)
+
 *[SAFE Network](https://maidsafe.net/)
 
