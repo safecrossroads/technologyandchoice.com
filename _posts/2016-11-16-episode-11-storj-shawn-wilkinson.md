@@ -7,6 +7,9 @@ author: John Ferguson
 tags: podcast
 featured: true
 ---
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296630836&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 #### In this Episode
 
 Great talk with Shawn Wilkinson, CEO/CTO of Storj Labs, about the Storj network which is about to go live in a very big way in headon competition with Amazon Web Services and the like. Hey, AWS, et al, you will be absorbed. Resistance is futile. App developers, as well as anyone who has some spare hard drive space they'd like to make some money with, should find this an entertaining and informative listen.
