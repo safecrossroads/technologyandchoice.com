@@ -8,7 +8,6 @@ tags: podcast
 featured: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T_4s7O5NUd8" frameborder="0" allowfullscreen></iframe>
 
 #### In this Episode
 
@@ -18,7 +17,7 @@ Technology is all about better directing influence, whether it be influence on t
 
 In this episode, we look at how influence is the most fundamental action of life, and why it's a good idea to not be ignorant of the technologies of personal and social influence. After all, who really wants to be a dupe? Answer? Those who remain ignorant of the nature and mechanics of personal influence.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZEQ_3bt7p_A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_4s7O5NUd8" frameborder="0" allowfullscreen></iframe>
 
 #### Magic Word
 
