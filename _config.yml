@@ -1,6 +1,11 @@
 # CONFIG - Refresh terminal command after updating this file
 testMode:     "off"                  # on|off: Display testing helpers
 
+# Installed Gems
+gems:
+- jekyll-paginate
+- jekyll-feed
+
 # Site settings
 title:        "Technology and Choice"
 slogan:       "Bulding from the First Principle"
