@@ -26,7 +26,7 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 #### Links
 
 
-[Yours.org](htttps://www.yours.org)
+[Yours.org](https://www.yours.org)
 
 [Recent, thorough presentation at Triangle Bitcoin meetup](https://www.youtube.com/watch?v=UsqZY5ETGn0&t=1135s)
 
