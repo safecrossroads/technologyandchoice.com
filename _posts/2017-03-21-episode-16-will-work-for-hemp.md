@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 16 - Will Work for Hemp
-excerpt: This is the second of what we're calling The Hemp Corner . . . we thought it would be a good idea to work as straightening out all the scrambled thinking about cannabis and hemp that has been brought about by nearly eight decades of prohibition and contradictory propaganda.  
+excerpt: This is the second of what we're calling The Hemp Corner . . . we thought it would be a good idea to work at straightening out all the scrambled thinking about cannabis and hemp that has been brought about by nearly eight decades of prohibition and contradictory propaganda.  
 thumbnail: assets/img/Planteyes+logo.png
 author: John Ferguson
 tags: podcast
@@ -11,7 +11,7 @@ featured: true
 
 #### In this Episode
 
-This is the second of what we're calling The Hemp Corner of Technology & Choice. After doing a high-altitude overview of hemp and cannabis in the first Hemp Corner, we thought it would be a good idea to work as straightening out all the scrambled thinking about cannabis and hemp that has been brought about by nearly eight decades of prohibition and contradictory propaganda. 
+This is the second of what we're calling The Hemp Corner of Technology & Choice. After doing a high-altitude overview of hemp and cannabis in the first Hemp Corner, we thought it would be a good idea to work at straightening out all the scrambled thinking about cannabis and hemp that has been brought about by nearly eight decades of prohibition and contradictory propaganda. 
 
 To do that we called in the big guns. Joy Beckerman-Maher is a 25 year veteran of laboring for hemp. As we discover in the interview, that's a much more literal statement than it might at first appear.
 
