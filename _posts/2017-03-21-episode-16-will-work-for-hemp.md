@@ -26,11 +26,13 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 #### Links
 
 
-[Hemp Ace International](https://www.hempace.com) Find more about Joy
+[Ford's Hemp Car -- picture and info](http://www.hiddenmysteries.org/conspiracy/facts/fordhemp.html)
 
-[Hemp for Victory](https://www.youtube.com/watch?v=UsqZY5ETGn0&t=1135s), pro hemp propaganda film
+[Hemp Ace International](http://www.hempace.com) Find more about Joy
 
-[Reefer Madness](https://www.youtube.com/watch?v=vluZsQ1lTOE) anti-marijuana propaganda film
+[Hemp for Victory](https://www.youtube.com/watch?v=d3rolyiTPr0), pro hemp propaganda film
+
+[Reefer Madness](https://www.youtube.com/watch?v=VruJdM-CaeM) anti-marijuana propaganda film
 
 [The Emperor Wears No Clothes](https://www.amazon.com/s/ref=nb_sb_ss_i_4_15?url=search-alias%3Daps&field-keywords=the+emperor+wears+no+clothes+by+jack+herer&sprefix=the+emperor+wea%2Caps%2C674&crid=U6FCNWYM2YLT), 1990's expose on hemp's value and its prohibition
 
@@ -40,6 +42,6 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 
 [JoinHemp.org](https://thehia.org/join-us)
 
-[Do Something about It- VoteHemp.com](votehemp.com)
+[Do Something about It- VoteHemp.com](http://votehemp.com)
 
 [HempSweet Pre-proposal to Dash Masternodes](http://bit.ly/DashMNproposal)
