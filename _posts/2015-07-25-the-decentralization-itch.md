@@ -1,10 +1,8 @@
 ---
-layout: post
 title: The Decentralization Itch
-excerpt:
+tags: article
 thumbnail: assets/img/decentralization-itch.jpg
 author: John Ferguson
-tags: article
 featured: true
 ---
 
@@ -104,6 +102,6 @@ This understanding has a lot of far-reaching ramifications that can be challengi
 -   The Simpleton of Project SAFE
 -     Simpleton@safecrossroads.net
 
-**Postscript:** I’ve been podcasting and writing about the SAFE Network for a few months now, and the inspiration for this article kept eating away at the back of my brain the whole time, till I finally put it on the page and worked with it till it was done. It was only after I’d finished it up and I was telling a friend about the subject matter that a further revelation hit me: The inspiration driving me (and others, I think) to bring the SAFE Network to fruition is my understanding that the technology underlying the network’s design is built from the inside out with respect for Self granted to the individual user by default. That in itself is an immensely powerful thing. Add to it the fact that the technology promises to be superior in so many other ways in terms of speed, efficiency, scalability and more, and it’s hard to contemplate the effect it will have on humanity. As I say, this is an afterthought to the article, which easily stands on its own. But I take this opportunity to encourage you to explore Project SAFE for yourself. The ramifications of the SAFE Network, and the open source technology it makes available to mankind for other applications, are more significant than I know how to communicate. Visit [safecrossroads.net](http://safecrossroads.net), [http://maidsafe.net](maidsafe.net), [safenetwork.wiki](https://safenetwork.wiki), [SAFE Crossroads Podcast feed on LetsTalkBitcoin.com](https://letstalkbitcoin.com/blog/category/safepodcast) and find out what it’s all about. JF
+**Postscript:** I’ve been podcasting and writing about the SAFE Network for a few months now, and the inspiration for this article kept eating away at the back of my brain the whole time, till I finally put it on the page and worked with it till it was done. It was only after I’d finished it up and I was telling a friend about the subject matter that a further revelation hit me: The inspiration driving me (and others, I think) to bring the SAFE Network to fruition is my understanding that the technology underlying the network’s design is built from the inside out with respect for Self granted to the individual user by default. That in itself is an immensely powerful thing. Add to it the fact that the technology promises to be superior in so many other ways in terms of speed, efficiency, scalability and more, and it’s hard to contemplate the effect it will have on humanity. As I say, this is an afterthought to the article, which easily stands on its own. But I take this opportunity to encourage you to explore Project SAFE for yourself. The ramifications of the SAFE Network, and the open source technology it makes available to mankind for other applications, are more significant than I know how to communicate. Visit [safecrossroads.net](https://safecrossroads.net), [maidsafe.net](https://maidsafe.net), [safenetwork.wiki](https://safenetwork.wiki), [SAFE Crossroads Podcast feed on LetsTalkBitcoin.com](https://letstalkbitcoin.com/blog/category/safepodcast) and find out what it’s all about. JF
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257004322&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

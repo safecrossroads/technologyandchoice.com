@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Episode 5 - Scam Tech 101
-excerpt: Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice?
-thumbnail: assets/img/scam+logo.png
 tags: podcast
+thumbnail: assets/img/scam+logo.png
+excerpt: Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice?
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261858439
 featured:
 ---
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261858439&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 #### In this Episode
 
@@ -25,6 +23,6 @@ Music for this episode: *SafeProject,* an original piece composed and performed 
 
 #### Links
 
-* [Free -- Robert's book, Get Yourself Scam Free](http://livesensical.com/scamfree//) (This page includes links to all the material discussed in this episode.)
-* [Anatomy of a Scam -- Planet Money podcast](http://www.npr.org/sections/money/2016/01/29/464859624/episode-680-anatomy-of-a-scam)
-* [CryptoGoss podcast](https://soundcloud.com/cryptogoss)
+- [Free -- Robert's book, Get Yourself Scam Free](http://livesensical.com/scamfree//) (This page includes links to all the material discussed in this episode.)
+- [Anatomy of a Scam -- Planet Money podcast](http://www.npr.org/sections/money/2016/01/29/464859624/episode-680-anatomy-of-a-scam)
+- [CryptoGoss podcast](https://soundcloud.com/cryptogoss)

@@ -1,19 +1,18 @@
 ---
-layout: post
 title: Episode 12 - Influence Says It All
-excerpt: What is the most basic action in the universe? Influence. Technology is all about better directing influence, whether it be influence on the environment, the materials at hand, electronics, software, or people. And there is a lot of technology on the nature of influence and persuasion amongst people. 
-thumbnail: assets/img/TC 12+Final.jpg
-author: John Ferguson
 tags: podcast
+thumbnail: assets/img/TC 12+Final.jpg
+excerpt: What is the most basic action in the universe? Influence. Technology is all about better directing influence, whether it be influence on the environment, the materials at hand, electronics, software, or people. And there is a lot of technology on the nature of influence and persuasion amongst people.
+author: John Ferguson
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302924744
 featured: true
 ---
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302924744&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 #### In this Episode
 
 What is the most basic action in the universe? Influence.
 
-Technology is all about better directing influence, whether it be influence on the environment, the materials at hand, electronics, software, or people. And there is a lot of technology on the nature of influence and persuasion amongst people. 
+Technology is all about better directing influence, whether it be influence on the environment, the materials at hand, electronics, software, or people. And there is a lot of technology on the nature of influence and persuasion amongst people.
 
 In this episode, we look at how influence is the most fundamental action of life, and why it's a good idea to not be ignorant of the technologies of personal and social influence. After all, who really wants to be a dupe? Answer? Those who remain ignorant of the nature and mechanics of personal influence.
 
@@ -28,9 +27,10 @@ Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to 
 Music for this episode: *SafeProject* an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
 
 #### Links
+
 (in order of discussion)
 
-[Scam Tech 101](http://technologyandchoice.com/2016/05/episode-5-scam-tech-101/) -- Worth a listen, and there are great additional references in the show notes of this episode. 
+[Scam Tech 101](http://technologyandchoice.com/2016/05/episode-5-scam-tech-101/) -- Worth a listen, and there are great additional references in the show notes of this episode.
 
 [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_1?s=books&ie=UTF8&qid=1484550989&sr=1-1&keywords=influence), by Robert Cialdini
 

@@ -1,14 +1,12 @@
 ---
-layout: post
 title: Episode 8 - Porcfest Potpourri
-excerpt: A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair.
-thumbnail: assets/img/tc08-image.png
-author: John Ferguson
 tags: podcast
+thumbnail: assets/img/tc08-image.png
+excerpt: A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair.
+author: John Ferguson
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271402120
 featured: true
 ---
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271402120&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 #### In this Episode
 
@@ -30,11 +28,11 @@ Music for this episode: *SafeProject* an original piece composed and performed b
 
 #### Links
 
-* [The Free State Project](https://freestateproject.org/)
-* [Porcfest](http://porcfest.com)
-* [Open Bazaar](https://openbazaar.org/)
-* [All things Larken Rose](http://larkenrose.com)
-* [Larken's YouTube channel](https://www.youtube.com/user/LarkenRose)
-* [The Mirror -- trailer](https://www.youtube.com/watch?v=hJUZlwAFVQo)
-* [LBRY.io](https://lbry.io/)
-* [LBRY Slack channel](https://slack.lbry.io)
+- [The Free State Project](https://freestateproject.org/)
+- [Porcfest](http://porcfest.com)
+- [Open Bazaar](https://openbazaar.org/)
+- [All things Larken Rose](http://larkenrose.com)
+- [Larken's YouTube channel](https://www.youtube.com/user/LarkenRose)
+- [The Mirror -- trailer](https://www.youtube.com/watch?v=hJUZlwAFVQo)
+- [LBRY.io](https://lbry.io/)
+- [LBRY Slack channel](https://slack.lbry.io)

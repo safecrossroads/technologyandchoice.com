@@ -1,14 +1,12 @@
 ---
-layout: post
 title: Episode 11 - Storj, Shawn Wilkinson
-excerpt: Great talk with Shawn Wilkinson, CEO/CTO of Storj Labs, about the Storj network which is about to go live in a very big way in headon competition with Amazon Web Services and the like. Hey, AWS, et al, you will be absorbed. Resistance is futile. 
-thumbnail: assets/img/Storj + logo fnl.png
-author: John Ferguson
 tags: podcast
+thumbnail: assets/img/Storj + logo fnl.png
+excerpt: Great talk with Shawn Wilkinson, CEO/CTO of Storj Labs, about the Storj network which is about to go live in a very big way in headon competition with Amazon Web Services and the like. Hey, AWS, et al, you will be absorbed. Resistance is futile.
+author: John Ferguson
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296630836
 featured: true
 ---
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296630836&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 #### In this Episode
 
@@ -26,8 +24,6 @@ Music for this episode: *SafeProject* an original piece composed and performed b
 
 #### Links
 
-[Storj](https://storj.io/)
-
-[SAFEnetwork.org](https://safenetwork.org/)
-
-[SAFE Network](https://maidsafe.net/)
+- [Storj](https://storj.io/)
+- [SAFEnetwork.org](https://safenetwork.org/)
+- [SAFE Network](https://maidsafe.net/)

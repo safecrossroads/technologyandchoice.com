@@ -1,10 +1,9 @@
 ---
-layout: post
 title: The Choice Eaters
-excerpt: BEWARE THE CHOICE EATERS! Politicians and other shysters take up and use the Choice that others have abandoned, and they encourage others to abandon their own Choice so that it’s easier for the Choice Eaters to consume.
-thumbnail: assets/img/Vultures4+logo.png
-author: John Ferguson
 tags: article
+thumbnail: assets/img/Vultures4+logo.png
+excerpt: BEWARE THE CHOICE EATERS! Politicians and other shysters take up and use the Choice that others have abandoned, and they encourage others to abandon their own Choice so that it’s easier for the Choice Eaters to consume.
+author: John Ferguson
 featured: true
 ---
 
@@ -14,7 +13,7 @@ Politicians and other shysters take up and use the Choice that others have aband
 
 **Wake up my fellows!!** Cease baring your necks to the vampires who presume to choose for you, be they willful or deluded. You GIVE them your blood willingly in the name of fear, ignorance, obedience to authority, whatever. You sacrifice your will, and so give them the power to consume your very substance, to lead you like sheep to the shearing, or cattle to the slaughter.
 
-You abandon your Choice without a thought, because you’ve been trained to do so. From childhood. I’d have to say on purpose. By those who consider that they own your Choice, and by their unwitting followers. Now you think that you’re blind and have to be lead, “whether you agree or not.” But I propose that it’s really just a matter of opening your eyes. 
+You abandon your Choice without a thought, because you’ve been trained to do so. From childhood. I’d have to say on purpose. By those who consider that they own your Choice, and by their unwitting followers. Now you think that you’re blind and have to be lead, “whether you agree or not.” But I propose that it’s really just a matter of opening your eyes.
 
 #### It’s Yours
 
@@ -39,7 +38,7 @@ Notice others choosing. See others subconsciously choosing to follow others beca
 
 If your conscious choice doesn’t seem to respond to your direction, don’t worry. That’s just the power of other choices that *you’ve* made, getting in the way. Don’t fight yourself! Just say, “Hello, Self! Welcome!” and allow yourself to become whole again, contradictions and all! You don’t even have to identify what the exact counter-choices are. Just embrace them. Realize that whatever is restraining *your Choice* from responding to *you* can only be *your Choice* in contradiction. Embrace it all. Cherish the contradiction as you’d cherish a loved one. And like a loved one, let it stay or go, whatever *it* wants to do. Allow it back, like a water drop into an ocean. You are the ocean . . . and the drop.
 
-You know, you don’t have to fight the Choice Eaters. 
+You know, you don’t have to fight the Choice Eaters.
 
 Just starve them.
 
@@ -49,5 +48,3 @@ John Ferguson
 churchofchoice.info
 
 technologyandchoice.com
-
-

@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Episode 4 - A Talk With Paul Rosenburg
-excerpt: John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.  
-thumbnail: assets/img/a-talk-with-paul-rosenburg.png
 tags: podcast
+thumbnail: assets/img/a-talk-with-paul-rosenburg.png
+excerpt: John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260914065
 featured:
 ---
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260914065&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 #### In this Episode
 
@@ -23,6 +21,6 @@ Music for this episode: *SafeProject*, an original piece composed and performed 
 
 #### Links
 
-* [Freeman's Perspective](http://www.freemansperspective.com/)
-* [Review of The Breaking Dawn](http://www.freemansperspective.com/the-breaking-dawn-a-book-review-by-jim-davidson/)
-* [Cryptohippie privacy service](https://secure.cryptohippie.com/)
+- [Freeman's Perspective](http://www.freemansperspective.com/)
+- [Review of The Breaking Dawn](http://www.freemansperspective.com/the-breaking-dawn-a-book-review-by-jim-davidson/)
+- [Cryptohippie privacy service](https://secure.cryptohippie.com/)
