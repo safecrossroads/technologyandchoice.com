@@ -1,10 +1,8 @@
 ---
 title: The Choice Eaters
-tags: article
+tags: Articles
 thumbnail: assets/img/Vultures4+logo.png
 excerpt: BEWARE THE CHOICE EATERS! Politicians and other shysters take up and use the Choice that others have abandoned, and they encourage others to abandon their own Choice so that it’s easier for the Choice Eaters to consume.
-author: John Ferguson
-featured: true
 ---
 
 BEWARE THE CHOICE EATERS!

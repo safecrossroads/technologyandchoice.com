@@ -1,13 +1,11 @@
 ---
 title: Episode 2 - Revenge of the Social Media Zombies
-tags: podcast
+tags: Podcasts
+author: John Ferguson and Robert Worstell
 thumbnail: assets/img/revenge-of-the-social-media-zombies.jpg
 excerpt: What's up with social media and what does it have to do with zombies? You'll just have to listen.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256950129
-featured:
 ---
-
-#### In this Episode
 
 What's up with social media and what does it have to do with zombies? You'll just have to listen.
 

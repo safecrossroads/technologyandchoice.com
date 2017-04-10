@@ -1,10 +1,8 @@
 ---
 title: Technology and Choice (What's in a Name?)
-tags: article
+tags: Articles
 thumbnail: assets/img/whats-in-a-name.jpg
 excerpt: Technology and Choice is a great name for a podcast, don’t you think? A lot of people seem to find the title compelling, all by itself. I know I do. There’s so much implied, yet so formlessly. Even I only have a vague idea of where we’re going with this--just a thread to start pulling, really. So, why is the name so engaging?
-author: John Ferguson
-featured: true
 ---
 
 [Note: link to author's reading of the article appears at the bottom of the article]
@@ -39,7 +37,7 @@ So let’s examine *choice* and *choices* a bit deeper, on a bit more practical,
 
 ### Types and Facets of Choice
 
-[The Decentralization Itch](http://www.safecrossroads.net/articles/the-decentralization-itch-3/) is an article I published last year on safecrossroads.net and the Let’s Talk Bitcoin network. In it I show pretty irrefutably how choice is something that only Self can do, because that’s where you look to find free will, volition, etc. While that logic is rock solid, I think, the patterns and packages of choices, and the complexities of life can make the truth of that logic hard to track and thus easy to doubt.  
+[The Decentralization Itch](https://safecrossroads.net/articles/the-decentralization-itch-3/) is an article I published last year on safecrossroads.net and the Let’s Talk Bitcoin network. In it I show pretty irrefutably how choice is something that only Self can do, because that’s where you look to find free will, volition, etc. While that logic is rock solid, I think, the patterns and packages of choices, and the complexities of life can make the truth of that logic hard to track and thus easy to doubt.  
 
 I’m not trying to make any sweeping conclusions here. We’re just tinkering with the stuff of life itself, after all. But we can take a closer look at some of the different forms choice takes in day-to-day life and see how it affects our view of things.
 

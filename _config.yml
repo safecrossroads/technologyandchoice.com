@@ -24,7 +24,7 @@ sass:
   style:       compressed               # nested | expanded | compact | compressed
 
 # Meta
-owner:         "John Ferguson and Robert Worstell"               # Site owner
+owner:         "John Ferguson"               # Site owner
 copyright:     "Technology and Choice"        # Copyright holder
 copyrightYear: "2016"                   # Since
 designer:      "Francis Brunelle"               # Designer / Developer name
@@ -52,10 +52,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "John Ferguson and Robert Worstell"
+      author: "John Ferguson"
       tags:   "post"
 
 permalink:     :categories/:year/:month/:title/   #Post URL
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 paginate_path: "/post/page:num/"
 paginate:      8
 

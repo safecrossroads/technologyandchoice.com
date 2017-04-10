@@ -1,16 +1,12 @@
 ---
 title: Episode 13 - The Tech of Hemp, Our Estranged Intimate
-tags: podcast
+tags: Podcasts
 thumbnail: assets/img/hemp and man+logo.png
 excerpt: We're very, very jazzed to be introducing a new series within the Technology and Choice podcast, dedicated to the technology and choices of Cannabis, a plant species which encompasses so very much more than just its psychoactive variety, marijuana.
-author: John Ferguson
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307650222
-featured: true
 ---
 
 -- An "Intimate" is someone or something that is not quite Self, but does not have the feel of Other. --
-
-#### In this Episode
 
 We're very, very jazzed to be introducing a new series within the Technology and Choice podcast, dedicated to the technology and choices of Cannabis, a plant species which encompasses so very much more than just its psychoactive variety, marijuana.
 

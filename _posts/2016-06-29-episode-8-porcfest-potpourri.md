@@ -1,14 +1,10 @@
 ---
 title: Episode 8 - Porcfest Potpourri
-tags: podcast
+tags: Podcasts
 thumbnail: assets/img/tc08-image.png
 excerpt: A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair.
-author: John Ferguson
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271402120
-featured: true
 ---
-
-#### In this Episode
 
 A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair.
 

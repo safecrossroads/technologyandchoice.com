@@ -9,22 +9,16 @@ bodyclass:
 
 **Technology and Choice** is intended to be a collaborative effort to explore the world and see what’s under the surface. As we explore the different aspects of technology and how they affect our experience and the state of the world, we try never to forget the primary element in all this experience: You. Thus Choice.
 
-## Yours Hosts:
+## Your Host:
 
 ### John Ferguson
 
 <img src="/assets/img/john-ferguson.jpg" alt="John Ferguson" width="300px">
 
 John has a very broad range of experience from construction to philosophy to writing, and professional proofreading and editing, but little in the way of formal credentials.  
-He has produced the [SAFE Crossroads podcast](http://www.safecrossroads.net/) since early 2015 and is a strong supporter of the evolution that is the SAFE Network because of the philosophical stance upon which it is constructed: Secure Access For Everyone, with Privacy, Security and Freedom instituted uncompromising principles from the ground up.
+He has produced the [SAFE Crossroads podcast](https://safecrossroads.net/) since early 2015 and is a strong supporter of the evolution that is the SAFE Network because of the philosophical stance upon which it is constructed: Secure Access For Everyone, with Privacy, Security and Freedom instituted uncompromising principles from the ground up.
 
 He is an avid consumer of data from a large number of social, political, philosophical, historical and scientific sources, always digging for the simplicities underlying them all. Thus his passion for Choice as a central focus of inquiry.
-
-### Dr. Robert Worstell
-
-<img src="/assets/img/robert-worstell.jpg" alt="Robert Worstell" width="300px">
-
-Robert has been writing and publishing books for over a decade from his working farm in rural northwest Missouri. With degrees in computer networking, and user-interface development, as well as advanced degrees in metaphysics and comparative religions, his width of understanding makes for interesting podcast conversations. Over-prolific, he maintains numerous blogs as well as a healthy publishing schedule. You can contact him via [LiveSensical.com](http://livesensical.com/) or [Midwest Journal Press Bookstore](http://midwestjournalpress.com/bookstore/).
 
 ***
 

@@ -1,13 +1,11 @@
 ---
 title: Episode 4 - A Talk With Paul Rosenburg
-tags: podcast
+tags: Podcasts
+author: John Ferguson and Robert Worstell
 thumbnail: assets/img/a-talk-with-paul-rosenburg.png
 excerpt: John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260914065
-featured:
 ---
-
-#### In this Episode
 
 John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.  
 

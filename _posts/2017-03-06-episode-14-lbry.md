@@ -1,16 +1,13 @@
 ---
 title: Episode 14 - LBRY
-tags: podcast
+tags: Podcasts
 thumbnail: assets/img/LBRY-logo.png
-excerpt: Recently caught up to Jeremy Kauffman, Founder and CEO of LBRY, a protocol and platform for sharing digital content, with incentives for all.
-author: John Ferguson
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311077416
-featured: true
 ---
 
-#### In this Episode
-
 Recently caught up to Jeremy Kauffman, Founder and CEO of LBRY, a protocol and platform for sharing digital content, with incentives for all.
+
+<!-- more -->
 
 The first part of the show is a replay of an earlier interview form July 2016, because it's hard to improve on for a clear idea of how LBRY is supposed to work.
 

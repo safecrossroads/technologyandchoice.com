@@ -1,9 +1,7 @@
 ---
 title: The Decentralization Itch
-tags: article
+tags: Articles
 thumbnail: assets/img/decentralization-itch.jpg
-author: John Ferguson
-featured: true
 ---
 
 *Decentralization.* The buzzword of our times.

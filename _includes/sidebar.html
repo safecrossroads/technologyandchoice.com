@@ -1,87 +1,30 @@
 <!-- Widget Featured -->
 <div class="widget featured-post">
-  <h4 class="page-header">Featured Posts</h4>
+  <h4 class="page-header">Latest Posts</h4>
 
   <!-- Emulates `limit:1` -->
   <ul class="featured-post-list nostyle">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
 
-      {% if post.featured == true %}
-        {% capture count %}{{ count | plus: '1' }}{% endcapture %}
-        {% if count == '1' %}
+    <li class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}" >
+      <a href="{{ post.url | prepend: site.baseurl }}">
 
-
-        <li class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}" >
-          <a href="{{ post.url | prepend: site.baseurl }}">
-
-            {% if post.thumbnail %}
-            <div class="list-thumbnail">
-              <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
-            </div>
-            {% endif %}
-            <div class="media-body list-desc">
-              <h4 class="media-heading list-title">{{ post.title }}</h4>
-              <small class="post-meta">{{ post.date | date_to_string }}</small>
-            </div>
-          </a>
-        </li>
-
-
+        {% if post.thumbnail %}
+        <div class="list-thumbnail">
+          <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
+        </div>
         {% endif %}
-    {% endif %}
-  {% endfor %}
-
-  <!-- Emulates `limit:2 offset:1` -->
-  {% for post in site.posts %}
-    {% if post.featured == true %}
-      {% capture counttwo %}{{ counttwo | plus: '1' }}{% endcapture %}
-      {% if counttwo == '2' or counttwo == '3' %}
-
-
-        <li class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-
-            {% if post.thumbnail %}
-            <div class="list-thumbnail">
-              <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
-            </div>
-            {% endif %}
-            <div class="media-body list-desc">
-              <h4 class="media-heading list-title">{{ post.title }}</h4>
-              <small class="post-meta">{{ post.date | date_to_string }}</small>
-            </div>
-          </a>
-        </li>
-
-
-      {% endif %}
-    {% endif %}
+        <div class="media-body list-desc">
+          <h4 class="media-heading list-title">{{ post.title }}</h4>
+          <small class="post-meta">{{ post.date | date_to_string }}</small>
+        </div>
+      </a>
+    </li>
 
   {% endfor %}
   </ul>
 </div><!-- /.widget featured -->
 
-
-
-
-<!-- Latest Post List -->
-<div class="widget latest-post">
-  <h4 class="page-header">Latest Posts</h4>
-
-  <div class="post-list">
-    <ul class="posts">
-    {% for post in site.posts limit:5 %}
-      <li class="latest-list-item">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <!-- <span class="split">&middot;</span>
-      <small class="entry-date">
-        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date_to_string }}</time>
-      </small></li> -->
-    {% endfor %}
-    </ul>
-  </div>
-
-</div><!-- /.latest-post -->
 
 
 
