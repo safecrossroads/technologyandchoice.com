@@ -8,7 +8,7 @@ soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tr
 ---
 > >**Governance** - the act or activity of looking after and making decisions about something -- Merriam-Webster.com
 
-Those weary of the complexity, inequities and corruption of govern-**ment** tend to also be weary of the idea of govern-**ance**.  But there's no way around it: Governance (by the above definition) happens one way or the other, because otherwise **stuff** just **happens**. Not an optimum scene, for sure.
+Those wary of the complexity, inequities and corruption of govern-**ment** tend to also be wary of the idea of govern-**ance**.  But there's no way around it: Governance (by the above definition) happens one way or the other, because otherwise **stuff** just **happens**. Not an optimum scene, for sure.
 
 Arthur Breitman, CTO and lead developer of Tezos,  started thinking about this years ago, and started developing Tezos as a way to account for the inevitable need to adapt the means of decision-making and action within a decentralized cryptocurrency environment. 
 
