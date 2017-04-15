@@ -2,7 +2,7 @@
 title: Mutual Consent and the Inevitability of Freedom
 tags: Articles
 author: Chadrick Mahaffey
-thumbnail: assets/img/whats-in-a-name.jpg
+image: assets/img/whats-in-a-name.jpg
 excerpt: Consent is the giving of permission for something to happen or agreeing to do something without being forced. Compliance is the act of conforming, acquiescing, or yielding.
 ---
 

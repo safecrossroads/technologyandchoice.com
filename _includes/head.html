@@ -3,15 +3,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
   <!-- Site info -->
-  <title>{% if page.title %}{{page.title}} &middot; {% endif %}{{site.title}}</title>
-  <meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}">
-  <meta property="og:site_name" content="{{site.title}}">
-  <meta property="og:url" content="{{page.url | prepend: site.baseurl | prepend: site.url}}">
-  <meta property="og:type" content="{{site.type}}">
-  <meta property="og:description" name="description" content="{% if page.excerpt %}{{page.excerpt | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
-  <meta property="og:image" content="{{site.baseurl | prepend: site.url}}/assets/brand/thumbnail.jpg">
-  <meta name="twitter:card" content="summary">{% if site.FacebookAppID == empty %}{% else %}
-  <meta property="fb:app_id" content="{{site.FacebookAppID}}">{% endif %}
+  {% seo %}
 
   <!-- Icons -->
   <link rel="shortcut icon" href="{{site.baseurl | prepend: site.url}}/assets/brand/favicon.ico">

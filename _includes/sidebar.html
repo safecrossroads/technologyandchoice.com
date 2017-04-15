@@ -6,12 +6,12 @@
   <ul class="featured-post-list nostyle">
   {% for post in site.posts limit:3 %}
 
-    <li class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}" >
+    <li class="media post-list-item {% if post.image %}post-list-item-thumbnail{% endif %}" >
       <a href="{{ post.url | prepend: site.baseurl }}">
 
-        {% if post.thumbnail %}
+        {% if post.image %}
         <div class="list-thumbnail">
-          <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
+          <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.image }}') no-repeat;"></div>
         </div>
         {% endif %}
         <div class="media-body list-desc">

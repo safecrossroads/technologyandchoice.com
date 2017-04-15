@@ -1,7 +1,7 @@
 ---
 title: Episode 6 - Chadrick Mahaffey on Crowd Founding Fundamentals
 tags: Podcasts
-thumbnail: assets/img/realpenroe.png
+image: assets/img/realpenroe.png
 excerpt: Chadrick Mahaffey is a software developer and fan of the SAFE Network. For years he's been working to understand organization principles so as to evolve a way that people can "Labor in Freedom."
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/263366995
 ---

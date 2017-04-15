@@ -1,7 +1,7 @@
 ---
 title: Technology and Choice (What's in a Name?)
 tags: Articles
-thumbnail: assets/img/whats-in-a-name.jpg
+image: assets/img/whats-in-a-name.jpg
 excerpt: Technology and Choice is a great name for a podcast, don’t you think? A lot of people seem to find the title compelling, all by itself. I know I do. There’s so much implied, yet so formlessly. Even I only have a vague idea of where we’re going with this--just a thread to start pulling, really. So, why is the name so engaging?
 ---
 

@@ -2,7 +2,7 @@
 title: Episode 5 - Scam Tech 101
 tags: Podcasts
 author: John Ferguson and Robert Worstell
-thumbnail: assets/img/scam+logo.png
+image: assets/img/scam+logo.png
 excerpt: Finally, Robert and John get to really start exploring scams. What is a scam? Why is it so important to understand the mechanics that make something a scam, or not? What does this all have to do with technology and choice?
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261858439
 ---

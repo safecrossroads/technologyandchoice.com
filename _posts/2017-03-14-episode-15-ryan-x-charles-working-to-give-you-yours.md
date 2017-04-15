@@ -1,7 +1,7 @@
 ---
 title: Episode 15 - Ryan X. Charles, Working to Give You Yours
 tags: Podcasts
-thumbnail: assets/img/yours+logo1.png
+image: assets/img/yours+logo1.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312359819
 ---
 

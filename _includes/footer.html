@@ -20,14 +20,10 @@
       <ul class="sns-icons list-inline">
         {% if site.snsLink.twitter == empty %}{% else %}
         <li><a class="sns-twitter" target="_blank" href="{{site.snsLink.twitter}}"><i class="genericon genericon-twitter"></i> <span>Twitter</span></a></li>{% endif %}
-        <!-- {% if site.snsLink.apple == empty %}{% else %}
-        <li><a class="sns-apple" target="_blank" href="{{site.snsLink.apple}}"><i class="genericon genericon-apple"></i> <span>Apple</span></a></li>{% endif %}
-        {% if site.snsLink.soundcloud == empty %}{% else %}
-        <li><a class="sns-soundcloud" target="_blank" href="{{site.snsLink.soundcloud}}" rel="publisher"><i class="genericon genericon-soundcloud"></i>  <span>SoundCloud</span></a></li>{% endif %} -->
         {% if site.snsLink.github == empty %}{% else %}
         <li><a class="sns-github" target="_blank" href="{{site.snsLink.github}}"><i class="genericon genericon-github"></i> <span>Github</span></a></li>{% endif %}
-        <!-- {% if site.snsLink.email == empty %}{% else %}
-        <li><a class="sns-email" target="_blank" href="{{site.snsLink.email}}"><i class="genericon genericon-email"></i> <span>Email</span></a></li>{% endif %} -->
+        {% if site.snsLink.email == empty %}{% else %}
+        <li><a class="sns-email" target="_blank" href="{{site.snsLink.email}}"><i class="genericon genericon-mail"></i> <span>Email</span></a></li>{% endif %}
       </ul>
 
 

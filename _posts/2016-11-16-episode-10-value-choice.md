@@ -1,7 +1,7 @@
 ---
 title: Episode 10 - Value Choice
 tags: Podcasts
-thumbnail: assets/img/Hank+logo.png
+image: assets/img/Hank+logo.png
 excerpt: While visiting my friend and associate, Travis Remington, in his home in Utah, we recorded this conversation to give some background on where we are going with our specific business idea, but more broadly,
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293402211
 ---

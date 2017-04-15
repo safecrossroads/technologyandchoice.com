@@ -1,7 +1,7 @@
 ---
 title: Episode 14 - LBRY
 tags: Podcasts
-thumbnail: assets/img/LBRY-logo.png
+image: assets/img/LBRY-logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311077416
 ---
 

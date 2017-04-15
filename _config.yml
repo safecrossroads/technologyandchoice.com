@@ -4,15 +4,23 @@ testMode:     "off"                  # on|off: Display testing helpers
 # Installed Gems
 gems:
 - jekyll-paginate
+- jekyll-seo-tag
 - jekyll-feed
 
 # Site settings
 title:        "Technology and Choice"
-slogan:       "Bulding from the First Principle"
-description:  "Building from the first principle, choice. We hope you will join us in the adventure."
+description:  "Building from the First Principle"
 url:          "https://technologyandchoice.com" # the base hostname (*Do not close with /)
 baseurl:      ""                                # the subpath of your site, e.g. /blog (Use this for Github project page)
-language:     "en"
+author:       "John Ferguson"
+twitter:
+  username:   "SAFEcrossroads"
+social:
+  name:       "John Ferguson"
+  links:
+    -         "https://twitter.com/SAFEcrossroads"
+logo:         "/assets/brand/thumbnail.jpg"
+lang:     "en"
 type:         "website"                         #website | blog
 timezone:     "US/Central"
 
@@ -30,7 +38,6 @@ copyrightYear: "2016"                   # Since
 designer:      "Francis Brunelle"               # Designer / Developer name
 designerURL:   "https://frabrunelle.com/"   # Designer / Developer website
 version:       "v1.0.1"                   # Dev version
-FacebookAppID: ""                       # Facebook App ID
 
 # Layout
 layout:        "responsive"              # static | responsive
@@ -49,8 +56,15 @@ collections:
 defaults:
   -
     scope:
+      type: "pages"
+    values:
+      layout: "page"
+      image: "/assets/brand/thumbnail.jpg"
+  -
+    scope:
       type: "posts"
     values:
+      image: "/assets/brand/thumbnail.jpg"
       layout: "post"
       author: "John Ferguson"
       tags:   "post"
@@ -67,10 +81,8 @@ userInfo:
 # Links
 snsLink:
   twitter:     "https://twitter.com/safecrossroads"    # Twitter
-  apple:       "https://itunes.apple.com/us/podcast/safe-crossroads-podcast/id997110283"    # iTunes
-  soundcloud:  "https://soundcloud.com/safecrossroads"    # SoundCloud
   github:      "https://github.com/safecrossroads/technologyandchoice.com"    # Github
-  email:       "simpleton@safecrossroads.net"    # Email
+  email:       "mailto:info@technologyandchoice.com"    # Email
 
 # Add-on
 formLink:      ""     # form Link

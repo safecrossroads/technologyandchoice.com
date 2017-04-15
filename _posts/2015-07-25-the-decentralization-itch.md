@@ -1,7 +1,7 @@
 ---
 title: The Decentralization Itch
 tags: Articles
-thumbnail: assets/img/decentralization-itch.jpg
+image: assets/img/decentralization-itch.jpg
 ---
 
 *Decentralization.* The buzzword of our times.

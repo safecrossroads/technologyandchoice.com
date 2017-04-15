@@ -21,12 +21,12 @@ layout: default
       <div class="post-list">
       {% for post in paginator.posts %}
 
-      <article class="media post-list-item {% if post.thumbnail %}post-list-item-thumbnail{% endif %}">
+      <article class="media post-list-item {% if post.image %}post-list-item-thumbnail{% endif %}">
 
 
-        {% if post.thumbnail %}
+        {% if post.image %}
         <a class="list-thumbnail" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.thumbnail }}') no-repeat;"></div>
+          <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.image }}') no-repeat;"></div>
         </a>
         {% else %}{% endif %}
 
