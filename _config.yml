@@ -3,6 +3,7 @@ testMode:     "off"                  # on|off: Display testing helpers
 
 # Installed Gems
 gems:
+- jekyll-sitemap
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-feed
