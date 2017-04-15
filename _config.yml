@@ -20,7 +20,7 @@ social:
   links:
     -         "https://twitter.com/SAFEcrossroads"
 logo:         "/assets/brand/thumbnail.jpg"
-lang:     "en"
+lang:         "en-US"
 type:         "website"                         #website | blog
 timezone:     "US/Central"
 
