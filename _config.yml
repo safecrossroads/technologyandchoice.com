@@ -31,14 +31,6 @@ sass:
   syntax:      scss                     # scss | sass
   style:       compressed               # nested | expanded | compact | compressed
 
-# Meta
-owner:         "John Ferguson"               # Site owner
-copyright:     "Technology and Choice"        # Copyright holder
-copyrightYear: "2016"                   # Since
-designer:      "Francis Brunelle"               # Designer / Developer name
-designerURL:   "https://frabrunelle.com/"   # Designer / Developer website
-version:       "v1.0.1"                   # Dev version
-
 # Layout
 layout:        "responsive"              # static | responsive
 topNavbar:     "on"                     # on | off: top fixed nav
