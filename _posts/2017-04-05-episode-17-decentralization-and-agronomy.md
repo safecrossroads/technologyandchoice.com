@@ -34,8 +34,8 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 
 #### Links
 
-- [The Hemp Connoisseur Magazine](http://thcmag.com)
+- [The Hemp Connoisseur Magazine](https://www.thcmag.com)
 - [Hemp Bound](https://www.amazon.com/Hemp-Bound-Dispatches-Agricultural-Revolution/dp/1603585435/ref=sr_1_1?ie=UTF8&qid=1491419079&sr=8-1&keywords=hemp+bound) -- Great book on hemp
 - [JoinHemp.org](https://thehia.org/join-us)
-- [Do Something about It- VoteHemp.com](http://votehemp.com)
-- [HempSweet](www.hempsweet.net)
+- [Do Something about It - VoteHemp.com](http://votehemp.com)
+- [HempSweet](https://hempsweet.net)

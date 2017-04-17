@@ -24,7 +24,7 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 
 #### Links
 
-[The Hemp Connoisseur Magazine](thcmag.com)
+[The Hemp Connoisseur Magazine](https://www.thcmag.com)
 --------------
 
 Other ways to view The Hemp Connoisseur:
@@ -35,5 +35,5 @@ Other ways to view The Hemp Connoisseur:
 
 -------
 
-[HempSweet](http://www.hempsweet.net)
+[HempSweet](https://hempsweet.net)
 ------------------
