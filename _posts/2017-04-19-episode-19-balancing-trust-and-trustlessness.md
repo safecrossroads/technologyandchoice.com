@@ -6,6 +6,7 @@ excerpt: "
 In wrapping up my discussion of Tezos with CTO Arthur Breitman, the theme of "Trust: where and how much to bestow it" is central enough to make it the theme of the episode, though we cover a lot of other aspects of Tezos and blockchain tech in general with a bit more technical depth than the last episode.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318491803
 ---
+
 In wrapping up my discussion of Tezos with CTO Arthur Breitman, the theme of "Trust: where and how much to bestow it" is central enough to make it the theme of the episode, though we cover a lot of other aspects of Tezos and blockchain tech in general with a bit more technical depth than the last episode.
 
 #### Music
