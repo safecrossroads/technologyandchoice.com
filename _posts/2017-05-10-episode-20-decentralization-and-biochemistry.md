@@ -23,3 +23,6 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 [*Chasing the Scream: The First and Last Days of the War on Drugs*](https://www.amazon.com/Chasing-Scream-First-Last-Drugs/dp/1620408910/ref=sr_1_1?ie=UTF8&qid=1494435555&sr=8-1&keywords=chasing+the+scream) Recommended book about the roots and progression, and damage of the "War on Drugs", and prohibition in general
 
 [Johann Hari TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)
+
+
+[British Medical Journal parachute study](https://www.ncbi.nlm.nih.gov/pubmed/14684649)
