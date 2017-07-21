@@ -1,5 +1,5 @@
 ---
-title: Episode 20 - Decentralization and Biochemistry
+title: Episode 21 - Joe Urgo on district0x
 tags: Podcasts
 image: assets/img/district0x + logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334115059
