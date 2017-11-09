@@ -3,6 +3,7 @@ title: Episode 23 - People and Projects at the Texas Bitcoin Conference (part 1)
 tags: Podcasts
 image: assets/img/TC 23 pic.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/353469920
+---
 
 I had some great talks with folks at the Texas Bitcoin Conference in late October. 
 
