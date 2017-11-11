@@ -35,7 +35,7 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 
 [Blockfreight on github](https://github.com/blockfreight)
 
-[Unchained Capital](http://unchained-capital.com/)
+[Unchained Capital](http://www.unchained-capital.com/)
 
 [ZeroWaste](http://www.zerowasteadvocacy.com/)
 
