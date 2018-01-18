@@ -1,5 +1,5 @@
 ---
-title: Episode 25 - #25, Exploring Value and Exchange with Adam B. Levine, or “Proof Of WHAT?” 
+title: Episode 25 - Exploring Value and Exchange with Adam B. Levine, or “Proof Of WHAT?” 
 tags: Podcasts
 image: assets/img/TC 25 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/384325076
