@@ -2,7 +2,7 @@
 title: Episode 29 - The Plumage of Choice
 tags: Podcasts
 image: assets/img/TC 29 logo .png
-soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395727501
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/399707472
 ---
 I start off this episode sharing a bit about why I'm doing this series on festivals in general and the One Love Festival in particular, and why it's important. Part of this is a cautionary tale about the pitfalls of abandoning existing systems and technologies prematurely, in and effort to use new social systems and technologies to improve on or fix existing ones. There's a balance to be struck. Food for thought.
 
