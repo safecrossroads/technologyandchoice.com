@@ -4,7 +4,7 @@ tags: Podcasts
 image: assets/img/TC 29 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/399707472
 ---
-I start off this episode sharing a bit about why I'm doing this series on festivals in general and the One Love Festival in particular, and why it's important. Part of this is a cautionary tale about the pitfalls of abandoning existing systems and technologies prematurely, in and effort to use new social systems and technologies to improve on or fix existing ones. There's a balance to be struck. Food for thought.
+I start off this episode sharing a bit about why I'm doing this series on festivals in general and the One Love Festival in particular, and why it's important. Part of this is a cautionary tale about the pitfalls of abandoning existing systems and technologies prematurely, in an effort to use new social systems and technologies to improve on or fix existing ones. There's a balance to be struck. Food for thought.
 
 Then I share a delightful interview with Melanie Davenport and her husband, Nick. Melanie and Nick are avid festival goers and share why. They also are vendors at festivals, where Melanie shares her custom clothing creations, Gypsy Spirit Apparel, designed especially for the needs and wants of other enthusiasts. There are specific needs and her adaptation of the technologies she uses is interesting. 
 
