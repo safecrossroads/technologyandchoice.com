@@ -20,7 +20,7 @@ He has produced the [SAFE Crossroads podcast](https://safecrossroads.net/) since
 
 He is an avid consumer of data from a large number of social, political, philosophical, historical and scientific sources, always digging for the simplicities underlying them all. Thus his passion for Choice as a central focus of inquiry.
 
-## Donations
+## Donate
 
 Creating and maintaining this site and the content is a blast, but it takes a lot of time–as well as straight out expense for domain, hosting, equipment, etc.–to get and keep it going.
 
