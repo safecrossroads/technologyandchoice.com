@@ -1,6 +1,6 @@
 ---
 title: Episode 26 - Reconnection - Ken Schwenker and the One Love Festival 
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 26 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387707387
 ---

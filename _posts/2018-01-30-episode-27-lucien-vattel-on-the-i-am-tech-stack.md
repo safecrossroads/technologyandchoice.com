@@ -1,6 +1,6 @@
 ---
 title: Episode 27 - Lucien Vattel on the I AM Tech Stack
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 27 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/391765998
 ---

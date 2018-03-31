@@ -1,6 +1,6 @@
 ---
 title: Episode 13 - The Tech of Hemp, Our Estranged Intimate
-tags: Podcasts
+category: Podcasts
 image: assets/img/hemp and man+logo.png
 excerpt: We're very, very jazzed to be introducing a new series within the Technology and Choice podcast, dedicated to the technology and choices of Cannabis, a plant species which encompasses so very much more than just its psychoactive variety, marijuana.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307650222

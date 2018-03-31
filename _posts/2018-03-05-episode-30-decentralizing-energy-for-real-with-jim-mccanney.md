@@ -1,6 +1,6 @@
 ---
 title: Episode 30 - Decentralizing Energy for Real (Plus a BIG Crypto Easter Egg), with Jim McCanney
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 30 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409275861
 ---

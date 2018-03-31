@@ -1,6 +1,6 @@
 ---
 title: Episode 7 - Some Loose Ends
-tags: Podcasts
+category: Podcasts
 author: John Ferguson and Robert Worstell
 image: assets/img/LooseEnds+logo.png
 excerpt: This week Robert and John do a bit of house cleaning. A number of loose ends demanded attention, so we had a blast just batting them around.

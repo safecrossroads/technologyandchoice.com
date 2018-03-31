@@ -1,11 +1,11 @@
 ---
 title: Episode 23 - People and Projects at the Texas Bitcoin Conference (part 1)
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 23 pic.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/353469920
 ---
 
-I had some great talks with folks at the Texas Bitcoin Conference in late October. 
+I had some great talks with folks at the Texas Bitcoin Conference in late October.
 
 This episode:
 
@@ -19,7 +19,7 @@ John Bushe, Pres. and Permaculture Designer for ZeroWaste, about the vast resour
 
 Ernest Hancock, Editor and Chief of the publishing and activist site Freedoms Phoenix, and host of the broadly popular radio show, Declare Your Independence.  Ernie was at the conference to network and share the collaborative project called "Pirates Without Borders."
 
-Thanks to Paul and Linda Snow, and all who made the Texas Bitcoin Conference possible. 
+Thanks to Paul and Linda Snow, and all who made the Texas Bitcoin Conference possible.
 
 #### Music
 

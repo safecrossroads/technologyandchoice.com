@@ -1,6 +1,6 @@
 ---
 title: Episode 22 - Eric Anderson (Eijah), on Stealing Fire
-tags: Podcasts
+category: Podcasts
 image: assets/img/Prometheus2 + logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349397854
 ---

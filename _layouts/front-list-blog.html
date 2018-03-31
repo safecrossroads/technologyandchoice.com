@@ -16,6 +16,7 @@ layout: default
 
     <!-- Main -->
     <main class="main {{site.gridClass.main}}" role="main">
+      <h3 class="page-header" style="margin-top: 20px"><a href="/categories/#Podcasts">Podcasts</a></h3>
 
 
       <div class="post-list">
@@ -37,9 +38,6 @@ layout: default
 
           <span class="post-meta">
             {{ post.date | date: "%b %-d, %Y" }}
-            {% for tag in post.tags %} •
-            <a href="{{ site.baseurl}}/tags/#{{tag}}"><span class="tag">{{tag}}</span></a>
-            {% endfor %}
           </span>
 
 

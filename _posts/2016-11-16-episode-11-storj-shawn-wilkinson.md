@@ -1,6 +1,6 @@
 ---
 title: Episode 11 - Storj, Shawn Wilkinson
-tags: Podcasts
+category: Podcasts
 image: assets/img/Storj + logo fnl.png
 excerpt: Great talk with Shawn Wilkinson, CEO/CTO of Storj Labs, about the Storj network which is about to go live in a very big way in headon competition with Amazon Web Services and the like. Hey, AWS, et al, you will be absorbed. Resistance is futile.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296630836

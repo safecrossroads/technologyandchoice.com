@@ -1,6 +1,6 @@
 ---
 title: Episode 29 - The Plumage of Choice
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 29 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/399707472
 ---

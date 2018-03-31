@@ -1,6 +1,6 @@
 ---
 title: The Decentralization Itch
-tags: Articles
+category: Articles
 image: assets/img/decentralization-itch.jpg
 ---
 

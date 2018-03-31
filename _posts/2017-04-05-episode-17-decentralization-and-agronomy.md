@@ -1,6 +1,6 @@
 ---
 title: Episode 17 - Decentralization and Agronomy
-tags: Podcasts
+category: Podcasts
 image: assets/img/redshirthemp+logo.png
 excerpt: "As this Hemp Corner series goes forward, we will definitely be exploring the direct interfaces between internet tech, cryptocurrency and the agronomy of hemp, but to start, we explore how the nature of hemp works towards a common goal: Decentralization."
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316262292

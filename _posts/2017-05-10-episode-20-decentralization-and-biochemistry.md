@@ -1,6 +1,6 @@
 ---
 title: Episode 20 - Decentralization and Biochemistry
-tags: Podcasts
+category: Podcasts
 image: assets/img/Biochem + logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321969104
 ---

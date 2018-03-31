@@ -1,6 +1,6 @@
 ---
 title: Episode 24 - People and Projects at the Texas Bitcoin Conference (part 2)
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 24 pic.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356471441
 ---

@@ -1,6 +1,6 @@
 ---
 title: Episode 8 - Porcfest Potpourri
-tags: Podcasts
+category: Podcasts
 image: assets/img/tc08-image.png
 excerpt: A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271402120

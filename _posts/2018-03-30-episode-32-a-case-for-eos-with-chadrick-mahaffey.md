@@ -1,13 +1,14 @@
 ---
 title: Episode 32 - A Case for EOS, with Chadrick Mahaffey
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 32 logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/422358276
+comments: true
 ---
 
 As promised in the last episode, Chadrick Mahaffey shares his presentation about EOS, the history behind it, the value proposition and why he is bullish on its mass adoption.
 
-This is far from an exhaustive and authoritative treatise. It maybe even leaves one with more questions than answers. But it is a good foothold about the EOS platform as it is developing, and why an enterprise developer such as Chadrick could be excited about the possibilities of what should be enabled by it. 
+This is far from an exhaustive and authoritative treatise. It maybe even leaves one with more questions than answers. But it is a good foothold about the EOS platform as it is developing, and why an enterprise developer such as Chadrick could be excited about the possibilities of what should be enabled by it.
 
 If you haven't listened to episode #31, about SFEOS, don't miss it. It highlights some of the uses to which Chadrick and others are looking to put EOS to work doing.
 

@@ -1,6 +1,6 @@
 ---
 title: Episode 28 - Christopher Jackson on Making Happenings Happen
-tags: Podcasts
+category: Podcasts
 image: assets/img/TC 28 logo .png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395727501
 ---

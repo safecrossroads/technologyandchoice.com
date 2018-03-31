@@ -1,6 +1,6 @@
 ---
 title: Episode 18 - Tezos and Scalable Decentralized Governance
-tags: Podcasts
+category: Podcasts
 image: assets/img/tezos + logo.png
 excerpt: "
 Those weary of the complexity, inequities and corruption of govern-**ment** tend to also be weary of the idea of govern-**ance**.  But there's no way around it: Governance happens one way or the other, because otherwise **stuff** just **happens**. Not an optimum scene, for sure."

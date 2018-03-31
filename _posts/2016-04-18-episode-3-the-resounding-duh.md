@@ -1,6 +1,6 @@
 ---
 title: Episode 3 - The Resounding Duh!
-tags: Podcasts
+category: Podcasts
 author: John Ferguson and Robert Worstell
 image: assets/img/the-resounding-duh.jpg
 excerpt: Be sure to read and/or listen to the article "Technology and Choice (What's in a Name?). The title of this episode will make more sense once you've read the article or listened to this episode.

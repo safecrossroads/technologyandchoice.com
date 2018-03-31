@@ -1,6 +1,6 @@
 ---
 title: Episode 16 - Will Work for Hemp
-tags: Podcasts
+category: Podcasts
 image: assets/img/Planteyes+logo.png
 excerpt: This is the second of what we're calling The Hemp Corner . . . we thought it would be a good idea to work at straightening out all the scrambled thinking about cannabis and hemp that has been brought about by nearly eight decades of prohibition and contradictory propaganda.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313522471

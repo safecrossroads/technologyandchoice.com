@@ -19,8 +19,8 @@
             <span itemprop="name">{{page.author}}</span>
           </span>{% endif %}
 
-          {% for tag in page.tags %}<span class="split">&middot;</span>
-          <a class="tag" href="{{site.baseurl}}/tags/#{{tag}}">{{tag}}</a>
+          {% for category in page.categories %}<span class="split">&middot;</span>
+          <a class="category" href="{{site.baseurl}}/categories/#{{category}}">{{category}}</a>
           {% endfor %}
         </p>
       </div>

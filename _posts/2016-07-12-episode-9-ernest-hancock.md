@@ -1,6 +1,6 @@
 ---
 title: Episode 9 - Ernest Hancock
-tags: Podcasts
+category: Podcasts
 image: assets/img/Ernie + logo.png
 excerpt: When I was at The Porcupine Freedom Festive in New Hampshire, I had the chance to sit down with Ernest Hancock of Freedom's Phoenix, along with the hosts of another podcast, Liberty Cafe. We had fun. Hope you enjoy it.
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/273272501

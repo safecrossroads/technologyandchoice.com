@@ -1,6 +1,6 @@
 ---
 title: Episode 12 - Influence Says It All
-tags: Podcasts
+category: Podcasts
 author: John Ferguson and Robert Worstell
 image: assets/img/TC 12+Final.jpg
 excerpt: What is the most basic action in the universe? Influence. Technology is all about better directing influence, whether it be influence on the environment, the materials at hand, electronics, software, or people. And there is a lot of technology on the nature of influence and persuasion amongst people.

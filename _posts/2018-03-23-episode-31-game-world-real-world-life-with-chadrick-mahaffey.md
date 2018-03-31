@@ -1,6 +1,6 @@
 ---
 title: Episode 31 - Game World, Real World, Life, with Chadrick Mahaffey
-tags: Podcasts
+category: Podcasts
 image: assets/img/SFEOS 1 + logo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/418091356
 ---

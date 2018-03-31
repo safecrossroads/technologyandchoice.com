@@ -1,6 +1,6 @@
 ---
 title: Episode 1 - Virtual Reality
-tags: Podcasts
+category: Podcasts
 author: John Ferguson and Robert Worstell
 image: assets/img/virtual-reality.jpg
 excerpt: Welcome to the first episode of Technology and Choice, the podcast where we're likely to talk about almost anything, as long as it centers around these two concepts.
