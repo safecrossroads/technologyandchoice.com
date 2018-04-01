@@ -20,7 +20,8 @@ layout: default
 
 
       <div class="post-list">
-      {% for post in paginator.posts %}
+      {% assign podcasts = paginator.posts | where:"category","Podcasts" %}
+      {% for post in podcasts %}
 
       <article class="media post-list-item {% if post.image %}post-list-item-thumbnail{% endif %}">
 
