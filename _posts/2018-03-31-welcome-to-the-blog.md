@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Blog
-category: Articles
+category: Blog Posts
 comments: true
 ---
 I often have thoughts and realizations I wish I could share, or at least make note of in a meaningful way, so here we are.
