@@ -7,19 +7,15 @@
   {% assign blog_posts = site.posts | where:"category","Blog Posts" %}
   {% for post in blog_posts limit:3 %}
 
-    <li class="media post-list-item {% if post.image %}post-list-item-thumbnail{% endif %}" >
+    <li class="media post-list-item" >
       <a href="{{ post.url | prepend: site.baseurl }}">
 
-        {% if post.image %}
-        <div class="list-thumbnail">
-          <div class="media-object placeholder" style="background: url('{{site.baseurl}}/{{ post.image }}') no-repeat;"></div>
-        </div>
-        {% endif %}
         <div class="media-body list-desc">
           <h4 class="media-heading list-title">{{ post.title }}</h4>
           <small class="post-meta">{{ post.date | date_to_string }}</small>
         </div>
       </a>
+      <p>{{ post.excerpt | strip_html | truncate: 125 }}</p>
     </li>
 
   {% endfor %}
