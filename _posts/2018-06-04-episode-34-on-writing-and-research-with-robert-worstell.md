@@ -2,7 +2,7 @@
 title: Episode 34 - On Writing and Research, with Robert Worstell
 category: Podcasts
 image: assets/img/TC 34 logo.png
-soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/435316314
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/453903813
 comments: true
 ---
 My old friend and sometimes co-host, Robert Worstell, returns and we explore the topic of research, especially from the angle of learning how to write fiction, and writing in general.
