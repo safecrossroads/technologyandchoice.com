@@ -1,5 +1,5 @@
 ---
-title: Episode 35, Open Source, Debian and FreedomBox, with Jonas Smedegaard
+title: Episode 35 - Open Source, Debian and FreedomBox, with Jonas Smedegaard
 category: Podcasts
 image: assets/img/TC 35.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/481282197
