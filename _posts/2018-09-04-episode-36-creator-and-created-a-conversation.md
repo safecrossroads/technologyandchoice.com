@@ -1,5 +1,5 @@
 ---
-title: Episode 36 - Creator and Created, a Converstaion
+title: Episode 36 - Creator and Created, a Conversation
 category: Podcasts
 image: assets/img/TC 36 logo.jpg
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/495328227
@@ -7,8 +7,8 @@ comments: true
 ---
 As the creator of something, do you give it life? As a fiction writer, does a story acquire a life of its own? As a software programmer, do you sometimes feel that what you're creating has something to teach you? Is your creation of any sort just something you do and have done, or do you nurture it and query it about what it needs to succeed?
 
-I recently had the pleasure of visiting my old friend, Robert Worstell, on his farm in Missouri, after 20 years of not seeing each other in person, but 15 years of regular communication and collaboration. 
- 
+I recently had the pleasure of visiting my old friend, Robert Worstell, on his farm in Missouri, after 20 years of not seeing each other in person, but 15 years of regular communication and collaboration.
+
 This was a very meaningful and useful time for us both, and I hope our conversation conveys some fraction of meaning and usefulness to the listener. We mine a vein of gold here, not just about writing, but about the relationship of anyone with the subject of what he or she is creating. It's a perspective that applies across the board, whether one is a writer, a programmer, a salesperson or carpenter, etc.
 
 We hit on something very interesting regarding the intersection of technology and choice which I, personally at least, found quite profound.
@@ -29,7 +29,7 @@ Bumper music: *Phantom from Space* by Kevin MacLeod.
 
 [Package of three free courses on writing](http://BecomingAWriter.thinkific.com) FREE
 
-[Go Thunk Yourself, Again](https://www.books2read.com/u/mBPQoD) -- A great book containing an outline of Roberts approach to researching subjects. 
+[Go Thunk Yourself, Again](https://www.books2read.com/u/mBPQoD) -- A great book containing an outline of Roberts approach to researching subjects.
 
 [*Becoming a Writer*, by Dorothea Brand](https://www.books2read.com/b/bzazRG)
 
