@@ -9,8 +9,6 @@ Semantics has to do with meaning. What if we could tie information together on t
 
 In this conversation we find out a bit about how this is beginning to be achieved, and how it is creating vast new horizons for how the internet will soon be used.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/7281497/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 #### Links
 
 [Solidbox site](https://solidbox.org/)
