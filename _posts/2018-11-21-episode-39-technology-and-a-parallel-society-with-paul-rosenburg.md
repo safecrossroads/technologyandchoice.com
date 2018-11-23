@@ -6,7 +6,7 @@ soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tr
 comments: true
 ---
 
-Paul Rosenburg is a man of many interests and talents, with a lot of real-world technical experience. A principal author of fiberoptic installations standards and a founder of CryptoHippie (industrial grade internet privacy solutions), his also the author of Freeman's Perspective, with both free and subscription newsletters.
+Paul Rosenburg is a man of many interests and talents, with a lot of real-world technical experience. A principal author of fiberoptic installations standards and a founder of CryptoHippie (industrial grade internet privacy solutions), he is also the author of Freeman's Perspective, with both free and subscription newsletters.
 
 In our conversation, we cover a lot of ground, both technical and philosophical, surrounding the strategy of advancing human progress, not by fighting what doesn't work in the status quo, but by leveraging technology to create parallel societies which can grow up to replace it. 
 
