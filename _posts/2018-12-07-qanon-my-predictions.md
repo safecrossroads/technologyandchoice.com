@@ -24,8 +24,10 @@ So my specific predictions are as follows:
       
 >• (c) The answer to the second part will be “No.”
 
-So we not live in intersting times?
+Do we not live in intersting times?
 
 John Ferguson
+
 7 December 2018
+
 technologyandchoice.com
