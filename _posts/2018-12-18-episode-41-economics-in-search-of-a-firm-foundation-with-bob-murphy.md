@@ -1,5 +1,5 @@
 ---
-title: Episode 41 - Economics - In Search of of a Firm Foundation, with Bob Murphy
+title: Episode 41 - Economics - In Search of a Firm Foundation, with Bob Murphy
 category: Podcasts
 image: assets/img/TechnologyandChoiceLogo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/546593142
