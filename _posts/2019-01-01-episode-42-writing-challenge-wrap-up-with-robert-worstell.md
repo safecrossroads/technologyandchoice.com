@@ -1,5 +1,5 @@
 ---
-title: Episode 42 - Economics - Writing Challenge Wrap-up, with Robert Worstell
+title: Episode 42 - Writing Challenge Wrap-up, with Robert Worstell
 category: Podcasts
 image: assets/img/TechnologyandChoiceLogo.png
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/552921636
