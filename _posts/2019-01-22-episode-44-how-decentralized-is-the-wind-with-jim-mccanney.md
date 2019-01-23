@@ -21,6 +21,8 @@ If you are interested in pursuing one of the approaches we discuss, contact Jim 
 
 #### Links
 
+[TC 30](https://letstalkbitcoin.com/blog/post/technology-choice-30-decentralizing-energy-for-real-plus-a-big-crypto-easter-egg-with-jim-mccanney) -- Previous episode with Jim McCanney
+
 [Jim McCanney Science, main site](https://jmccsci.com) Scroll down left-hand column for Wing Generator data.
 
 [Wing Generator and Water Generator video](https://www.youtube.com/watch?v=7ozm1CoXzCg) See the Wing Generator in action.
