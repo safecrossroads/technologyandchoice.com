@@ -13,7 +13,7 @@ In addition to that we do a good coverage of the technologies he's developed to 
 
 Then the question is, What are we going to do about it?
 
-If you are interested in pursuing one of the approaches we discuss, contact Jim at his website below, or contact you host at simpleton@safecrossroads.net
+If you are interested in pursuing one of the approaches we discuss, contact Jim at his website below, or contact your host at simpleton@safecrossroads.net
 
 #### Music
 
