@@ -1,7 +1,6 @@
 ---
 title: A Woman’s Right to Choose
 category: Articles
-image: assets/img/decentralization-itch.jpg
 ---
 
 Now *that* is a compelling phrase! But what does it call to mind for **you**?:
