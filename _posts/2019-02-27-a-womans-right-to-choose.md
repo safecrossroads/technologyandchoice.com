@@ -1,6 +1,7 @@
 ---
 title: A Woman’s Right to Choose
 category: Articles
+image: assets/img/Womans choose.jpeg
 ---
 
 Now *that* is a compelling phrase! But what does it call to mind for **you**?:
