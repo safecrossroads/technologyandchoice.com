@@ -20,7 +20,7 @@ And our choices have consequences. We may not know in advance where they will le
 
 And once my car is in the air, with my passengers and me plunging towards death on the canyon floor, 1000 ft. below, is it really relevant that I didn’t MEAN for my drunk driving to cause tragedy? That actually could have been me. But I was lucky, at least on that score. My teenage adventures with driving under the influence left me and my friends largely unscathed. Choices have consequences we can’t always predict. Sometimes we’re lucky . . . and sometimes we’re not.
 
-Choice and Abortion
+#### Choice and Abortion
 
 “A woman’s right to choose”: It is such a powerful phrase in the context of abortion. After all, how can anyone oppose a woman’s right to choose? Choice implies freedom and, in the West especially, individual freedom is something we protect with passion--and blood, even.
 
