@@ -4,7 +4,9 @@ category: Articles
 image: assets/img/Womans choose.jpeg
 ---
 
-Now *that* is a compelling phrase! But what does it call to mind for **you**?:
+Now *that* is a compelling phrase! 
+
+But what does it call to mind for **you**?:
 
 - A high concept of natural empowerment?
 -  A sense of contentious struggle for liberation from injustice?
