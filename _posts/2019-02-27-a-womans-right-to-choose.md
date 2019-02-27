@@ -58,6 +58,8 @@ Waiting until after pregnancy to start thinking about “a woman’s right to ch
 
 And his choices? We don’t seem to talk much about “a man’s right to choose.” Can we seriously talk about her right to choose without also talking about his? Does he have a say in what happens after an unintended pregnancy, as well as before?
 
+Where is the first fork in the road?
+
 Unless both players are *trying* to start (or at least *willing to be responsible* for starting) a new cycle of life, it’s clear that voluntarily risking pregnancy can be the moral equivalent of driving while intoxicated, skirting the canyon’s edge for the thrill of the ride. There is birth control, but even that fails from time to time. Feeling lucky boys and girls?
 
 #### Choice and Entanglements
