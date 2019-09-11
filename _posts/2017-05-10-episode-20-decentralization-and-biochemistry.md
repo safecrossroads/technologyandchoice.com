@@ -26,3 +26,5 @@ Bumper music: *Rocket Power* by Kevin MacLeod.
 
 
 [British Medical Journal parachute study](https://www.ncbi.nlm.nih.gov/pubmed/14684649)
+
+[A useful article on overcoming addictions](https://deref-mail.com/mail/client/3qDcwuFHwMU/dereferrer/?redirectUrl=https%3A%2F%2Frelaxlikeaboss.com%2Fcycle-of-addiction%2F)
