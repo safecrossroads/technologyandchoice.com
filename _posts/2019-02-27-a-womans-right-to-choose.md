@@ -3,7 +3,7 @@ title: A Woman’s Right to Choose
 category: Articles
 image: assets/img/Womans choose.jpeg
 ---
-#### A Woman's Right to Choose
+#### "A Woman's Right to Choose"
 
 Now *that* is a compelling phrase! 
 
